@@ -11517,8 +11517,14 @@ select {
         const stageRating = findStageRating(records);
         const ratingInfo = getRatingInfo(rate, stageRating);
         const manualPenalty = findManualPenalty(records);
-        const penaltyConclusionHtml = (stageRating && /^([MI])/.test(String(stageRating.rating || '')) && String(stageRating.penalty_text || '').trim())
-            ? `<div class="rounded-xl px-4 py-3 text-sm flex items-start gap-2 bg-rose-50 border border-rose-200 text-rose-800 mt-3"><span class="material-symbols-outlined text-base mt-0.5">gavel</span><span><strong>扣罚结论：</strong>${stageRating.penalty_text}</span></div>`
+        const penaltyText = String(stageRating?.penalty_text || '').trim();
+        const penaltyAmountMatch = penaltyText.match(/(\d+(?:\.\d+)?)\s*元/);
+        const penaltyAmountText = penaltyAmountMatch ? `，扣罚金额：${penaltyAmountMatch[1]}元` : '';
+        const penaltyConclusionHtml = penaltyText
+            ? `<div class="rounded-xl px-4 py-3 text-sm leading-relaxed bg-red-50 border border-red-200 text-red-700 mt-3 font-semibold">⚠️ 触发扣罚：${penaltyText}${penaltyAmountText}</div>`
+            : '';
+        const manualPenaltyHtml = manualPenalty
+            ? `<div class="rounded-xl px-4 py-3 text-sm leading-relaxed bg-red-50 border border-red-200 text-red-700 mt-3 font-semibold">⚠️ 触发扣罚：${manualPenalty.remark || '存在人工扣罚记录，请及时关注。'}</div>`
             : '';
         const title = warehouse ? `${stage} · ${warehouse}` : stage;
         const alertClass = ratingInfo.alertType === 'praise'
@@ -11551,6 +11557,7 @@ select {
                         <p class="text-sm text-lake-700 mb-3 leading-relaxed">${ratingInfo.desc}</p>
                         <div class="${alertClass}"><span class="material-symbols-outlined text-base mt-0.5">${ratingInfo.alertIcon}</span><span>${ratingInfo.alertText}</span></div>
                         ${penaltyConclusionHtml}
+                        ${manualPenaltyHtml}
                     </div>
                 </div>
             </div>
@@ -11623,6 +11630,9 @@ select {
         const stageRating = findStageRating(results);
         const ratingInfo = getRatingInfo(rate, stageRating);
         const manualPenalty = findManualPenalty(results);
+        const penaltyText = String(stageRating?.penalty_text || '').trim();
+        const penaltyAmountMatch = penaltyText.match(/(\d+(?:\.\d+)?)\s*元/);
+        const penaltyAmountText = penaltyAmountMatch ? `，扣罚金额：${penaltyAmountMatch[1]}元` : '';
 
         document.getElementById('ratingBadge').style = ratingInfo.badgeGradient;
         document.getElementById('ratingLetter').textContent = ratingInfo.grade;
@@ -11634,18 +11644,28 @@ select {
         const alertEl = document.getElementById('ratingAlert');
         alertEl.classList.remove('hidden');
         document.getElementById('ratingAlertIcon').textContent = ratingInfo.alertIcon;
-        document.getElementById('ratingAlertText').textContent = [
-            ratingInfo.alertText,
-            (stageRating && /^([MI])/.test(String(stageRating.rating || '')) && String(stageRating.penalty_text || '').trim())
-                ? `扣罚结论：${stageRating.penalty_text}`
-                : '',
-            manualPenalty ? `人工扣罚原因：${manualPenalty.remark}` : ''
-        ].filter(Boolean).join('；');
+        document.getElementById('ratingAlertText').textContent = ratingInfo.alertText;
         alertEl.className = ratingInfo.alertType === 'praise'
             ? 'rounded-xl px-4 py-3 text-sm flex items-start gap-2 bg-emerald-50 border border-emerald-200 text-emerald-800'
             : ratingInfo.alertType === 'penalty'
                 ? 'rounded-xl px-4 py-3 text-sm flex items-start gap-2 bg-red-50 border border-red-200 text-red-800'
                 : 'rounded-xl px-4 py-3 text-sm flex items-start gap-2 bg-slate-50 border border-slate-200 text-slate-600';
+
+        const oldPenaltyList = document.getElementById('ratingPenaltyList');
+        if (oldPenaltyList) oldPenaltyList.remove();
+
+        const extraPenaltyMessages = [];
+        if (penaltyText) {
+            extraPenaltyMessages.push(`⚠️ 触发扣罚：${penaltyText}${penaltyAmountText}`);
+        }
+        if (manualPenalty) {
+            extraPenaltyMessages.push(`⚠️ 触发扣罚：${manualPenalty.remark || '存在人工扣罚记录，请及时关注。'}`);
+        }
+
+        if (extraPenaltyMessages.length) {
+            const penaltyLines = extraPenaltyMessages.map(msg => `<div class="rounded-xl px-4 py-3 text-sm leading-relaxed bg-red-50 border border-red-200 text-red-700 font-semibold mt-3">${msg}</div>`).join('');
+            alertEl.insertAdjacentHTML('afterend', `<div id="ratingPenaltyList">${penaltyLines}</div>`);
+        }
     }
     
     function getRatingInfo(rate, stageRating) {
