@@ -45,7 +45,9 @@
         .btn-lake { background: linear-gradient(135deg, #257f94 0%, #2a9db0 100%); }
         .btn-lake:hover { background: linear-gradient(135deg, #246779 0%, #257f94 100%); box-shadow: 0 8px 24px rgba(42, 157, 176, 0.25); }
         .modal-overlay { background: rgba(18, 47, 57, 0.5); backdrop-filter: blur(4px); }
-        .password-input { letter-spacing: 8px; font-size: 20px; text-align: center; }
+        .password-input { letter-spacing: normal; font-size: 16px; text-align: left; }
+        .login-input { height: 52px; font-size: 16px; line-height: 24px; text-align: left; }
+        .login-input::placeholder { color: #111827 !important; opacity: 1; }
         .refresh-spin { animation: spin 1s linear infinite; }
         @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
         .toast { animation: slideUp 0.3s ease-out; }
@@ -94,18 +96,18 @@
         .login-page-card input::placeholder { color: #111827 !important; }
         select, input { background: #ffffff !important; color: #111827 !important; border-color: rgba(37, 244, 238, 0.28) !important; }
         select option { color: #111827; }
-        #searchBtn, #loginBtn, #logoutBtn, #confirmLoginBtn { background: linear-gradient(90deg, #25F4EE 0%, #FE2C55 100%) !important; color: #010101 !important; border: none; font-weight: 700; box-shadow: 0 12px 28px rgba(254, 44, 85, 0.24); }
+        #searchBtn, #loginBtn, #logoutBtn, #confirmLoginBtn { background: linear-gradient(90deg, #25F4EE 0%, #FE2C55 100%) !important; color: #ffffff !important; border: none; font-weight: 700; box-shadow: 0 12px 28px rgba(254, 44, 85, 0.24); }
         #searchBtn:hover, #loginBtn:hover, #logoutBtn:hover, #confirmLoginBtn:hover { background: linear-gradient(90deg, #1de5df 0%, #ff4a6c 100%) !important; box-shadow: 0 14px 32px rgba(37, 244, 238, 0.18), 0 14px 32px rgba(254, 44, 85, 0.18); }
         .login-hint { color: #94a3b8; font-size: 13px; }
         .modal-overlay { background: radial-gradient(circle at top, rgba(37, 244, 238, 0.18), transparent 35%), radial-gradient(circle at 85% 15%, rgba(254, 44, 85, 0.18), transparent 28%), linear-gradient(180deg, rgba(1,1,1,0.96), rgba(16,16,16,0.92)); backdrop-filter: blur(8px); }
-        .tts-logo { width: 240px; height: 72px; object-fit: contain; filter: drop-shadow(0 10px 24px rgba(37, 244, 238, 0.18)) drop-shadow(0 10px 24px rgba(254, 44, 85, 0.18)); }
+        .tts-logo { width: 240px; height: 72px; object-fit: contain; filter: brightness(0) invert(1) drop-shadow(0 10px 24px rgba(37, 244, 238, 0.18)) drop-shadow(0 10px 24px rgba(254, 44, 85, 0.18)); }
         .tts-accent-text { color: #ffffff; }
         .page-shell { min-height: 100vh; }
         .login-page-card { max-width: 560px; box-shadow: 0 32px 80px rgba(0, 0, 0, 0.35); border-radius: 32px; background: linear-gradient(180deg, rgba(12,12,12,0.92), rgba(24,24,24,0.9)); border: 1px solid rgba(255,255,255,0.08); }
         .login-page-subtitle { color: rgba(255,255,255,0.74); line-height: 1.7; }
         .brand-wordmark { color: #25F4EE; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase; }
         .login-logo-wrap { display: flex; justify-content: center; margin-bottom: 24px; }
-        .header-logo { width: 180px; height: 54px; object-fit: contain; filter: drop-shadow(0 8px 20px rgba(37, 244, 238, 0.18)) drop-shadow(0 8px 20px rgba(254, 44, 85, 0.18)); }
+        .header-logo { width: 180px; height: 54px; object-fit: contain; filter: brightness(0) invert(1) drop-shadow(0 8px 20px rgba(37, 244, 238, 0.18)) drop-shadow(0 8px 20px rgba(254, 44, 85, 0.18)); }
         .accent-pill { display: inline-flex; align-items: center; gap: 8px; padding: 6px 12px; border-radius: 999px; background: rgba(37, 244, 238, 0.1); border: 1px solid rgba(37, 244, 238, 0.22); color: #25F4EE; }
         .accent-pill::before { content: ''; width: 8px; height: 8px; border-radius: 999px; background: #FE2C55; display: inline-block; }
     </style>
@@ -11004,18 +11006,17 @@ select {
                     <img src="./tiktok-shop-logo.png" alt="TikTok Shop" class="tts-logo">
                 </div>
                 <div class="mb-4">
-                    <div class="brand-wordmark mb-2">TikTok Shop</div>
                     <h1 class="text-2xl md:text-3xl font-bold tracking-tight tts-accent-text">A段服务商绩效查询</h1>
                 </div>
                 <p class="login-page-subtitle text-sm md:text-base">请输入服务商账号和查询密码，登录后即可查看本供应商全部月份、全部环节的绩效数据。</p>
             </div>
             <div class="space-y-4 mb-6" data-aime-line="1879" data-aime-column="13" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9135" data-aime-column="13" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
-                <input id="accountInput" type="text" placeholder="请输入账号，例如 kuayue" class="w-full px-4 py-3 rounded-xl border-2 border-lake-200 bg-white text-lake-900 focus:ring-2 focus:ring-lake-300 focus:border-lake-400 transition-all outline-none" onkeypress="if(event.key==='Enter') verifyPassword()">
-                <input id="passwordInput" type="password" maxlength="6" placeholder="请输入6位数字密码" class="password-input w-full px-4 py-3 rounded-xl border-2 border-lake-200 bg-white text-lake-900 focus:ring-2 focus:ring-lake-300 focus:border-lake-400 transition-all outline-none" onkeypress="if(event.key==='Enter') verifyPassword()" data-aime-line="1880" data-aime-column="17" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="input" data-aime-line="9136" data-aime-column="17" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="input">
+                <input id="accountInput" type="text" placeholder="请输入账号，例如 kuayue" class="login-input w-full px-4 py-3 rounded-xl border-2 border-lake-200 bg-white text-lake-900 focus:ring-2 focus:ring-lake-300 focus:border-lake-400 transition-all outline-none" onkeypress="if(event.key==='Enter') verifyPassword()">
+                <input id="passwordInput" type="password" maxlength="6" placeholder="请输入6位数字密码" class="login-input password-input w-full px-4 py-3 rounded-xl border-2 border-lake-200 bg-white text-lake-900 focus:ring-2 focus:ring-lake-300 focus:border-lake-400 transition-all outline-none" onkeypress="if(event.key==='Enter') verifyPassword()" data-aime-line="1880" data-aime-column="17" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="input" data-aime-line="9136" data-aime-column="17" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="input">
                 <p class="login-hint text-center">请联系TTS对接人获取账号密码</p>
                 <p id="passwordError" class="hidden text-red-500 text-xs mt-2 text-center" data-aime-line="1881" data-aime-column="17" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="p" data-aime-line="9137" data-aime-column="17" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="p">账号或密码错误，请重新输入</p>
             </div>
-            <button id="confirmLoginBtn" onclick="verifyPassword()" class="w-full px-4 py-3 rounded-xl btn-lake text-white font-medium transition-all active:scale-95 text-sm">登录并查看绩效</button>
+            <button id="confirmLoginBtn" onclick="verifyPassword()" class="w-full px-4 py-3 rounded-xl btn-lake text-white font-semibold transition-all active:scale-95 text-sm">登录并查看绩效</button>
         </div>
     </div>
 
