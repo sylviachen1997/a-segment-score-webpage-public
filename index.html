@@ -52,29 +52,31 @@
         @keyframes slideUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
         .tts-logo { width: 56px; height: 56px; object-fit: contain; filter: drop-shadow(-2px 0 0 #25f4ee) drop-shadow(2px 0 0 #fe2c55); }
         .tts-accent-text { background: linear-gradient(90deg, #ffffff 0%, #25f4ee 40%, #fe2c55 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
-        body { background: linear-gradient(180deg, #f7f8fa 0%, #ffffff 30%, #f8fafc 100%); min-height: 100vh; color: #1f2937; }
-        .glass-card { background: rgba(255,255,255,0.96); backdrop-filter: blur(10px); border: 1px solid #e8edf3; box-shadow: 0 12px 32px rgba(15, 23, 42, 0.06); }
-        .hero-gradient { background: linear-gradient(135deg, #ffffff 0%, #f7fbff 55%, #f0f7ff 100%); border-bottom: 1px solid #e8edf3; }
-        .table-row:hover { background: #f8fbff; }
-        .deduction-row { background: #fff7f7; }
-        .deduction-row:hover { background: #fff1f2; }
+        body { background: linear-gradient(180deg, #fff7f3 0%, #ffffff 28%, #fffaf6 100%); min-height: 100vh; color: #1f2937; }
+        .glass-card { background: rgba(255,255,255,0.97); backdrop-filter: blur(10px); border: 1px solid #f3ddd3; box-shadow: 0 16px 36px rgba(244, 99, 58, 0.08); }
+        .hero-gradient { background: linear-gradient(135deg, #fff6f1 0%, #fff0e7 52%, #fff8f4 100%); border-bottom: 1px solid #f4ddd2; }
+        .table-row:hover { background: #fff5ef; }
+        .deduction-row { background: #fff4f4; }
+        .deduction-row:hover { background: #ffeceb; }
         .text-lake-900 { color: #111827 !important; }
         .text-lake-800, .text-lake-700 { color: #374151 !important; }
-        .text-lake-600, .text-lake-500 { color: #5b6b7f !important; }
-        .text-lake-400, .text-lake-300, .text-lake-200, .text-lake-100 { color: #94a3b8 !important; }
-        select, input { background: #ffffff !important; color: #111827 !important; border-color: #d6deea !important; }
+        .text-lake-600, .text-lake-500 { color: #7c5a4b !important; }
+        .text-lake-400, .text-lake-300, .text-lake-200, .text-lake-100 { color: #a78b80 !important; }
+        select, input { background: #ffffff !important; color: #111827 !important; border-color: #efd3c8 !important; }
         select option { color: #111827; }
-        #searchBtn, #loginBtn, #logoutBtn, #confirmLoginBtn { background: #111827 !important; color: #ffffff !important; border: none; font-weight: 600; }
-        #searchBtn:hover, #loginBtn:hover, #logoutBtn:hover, #confirmLoginBtn:hover { background: #0f172a !important; box-shadow: 0 10px 24px rgba(15, 23, 42, 0.12); }
-        .login-hint { color: #64748b; font-size: 12px; }
-        .modal-overlay { background: linear-gradient(180deg, rgba(248,250,252,0.96), rgba(241,245,249,0.96)); backdrop-filter: blur(6px); }
-        .tts-logo { width: 48px; height: 48px; object-fit: contain; filter: none; }
+        #searchBtn, #loginBtn, #logoutBtn, #confirmLoginBtn { background: linear-gradient(135deg, #ff6b4a 0%, #ff844f 100%) !important; color: #ffffff !important; border: none; font-weight: 600; box-shadow: 0 10px 24px rgba(255, 107, 74, 0.22); }
+        #searchBtn:hover, #loginBtn:hover, #logoutBtn:hover, #confirmLoginBtn:hover { background: linear-gradient(135deg, #f45d3d 0%, #ff7340 100%) !important; box-shadow: 0 12px 28px rgba(255, 107, 74, 0.28); }
+        .login-hint { color: #8b6b60; font-size: 12px; }
+        .modal-overlay { background: radial-gradient(circle at top, rgba(255, 145, 77, 0.12), transparent 36%), linear-gradient(180deg, rgba(255,247,243,0.98), rgba(255,250,246,0.98)); backdrop-filter: blur(6px); }
+        .tts-logo { width: 96px; height: 96px; object-fit: contain; filter: drop-shadow(0 10px 24px rgba(255, 107, 74, 0.14)); }
         .tts-accent-text { background: none; -webkit-background-clip: initial; -webkit-text-fill-color: initial; color: #111827; }
         .page-shell { min-height: 100vh; }
-        .login-page-card { max-width: 460px; box-shadow: 0 24px 60px rgba(15, 23, 42, 0.08); }
-        .login-page-subtitle { color: #64748b; line-height: 1.7; }
-        .brand-chip { display: inline-flex; align-items: center; gap: 8px; padding: 6px 12px; border-radius: 999px; background: #ffffff; border: 1px solid #e8edf3; color: #475569; font-size: 12px; }
-        .brand-chip-dot { width: 8px; height: 8px; border-radius: 999px; background: linear-gradient(135deg, #25f4ee, #fe2c55); display: inline-block; }
+        .login-page-card { max-width: 520px; box-shadow: 0 28px 70px rgba(244, 99, 58, 0.12); border-radius: 32px; }
+        .login-page-subtitle { color: #7c5a4b; line-height: 1.7; }
+        .brand-wordmark { color: #ff6b4a; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; }
+        .warm-dot { width: 10px; height: 10px; border-radius: 999px; background: linear-gradient(135deg, #ff8e53, #fe2c55); display: inline-block; }
+        .login-logo-wrap { display: flex; justify-content: center; margin-bottom: 18px; }
+        .header-logo { width: 72px; height: 72px; object-fit: contain; filter: drop-shadow(0 8px 18px rgba(255, 107, 74, 0.12)); }
     </style>
 <script type="module" data-aime-line="54" data-aime-column="1" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="script" data-aime-line="54" data-aime-column="1" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="script">
 
@@ -10967,15 +10969,14 @@ select {
     <div id="passwordModal" class="fixed inset-0 z-50 flex items-center justify-center modal-overlay page-shell" data-aime-line="1872" data-aime-column="5" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9128" data-aime-column="5" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
         <div class="glass-card rounded-3xl p-8 md:p-10 w-full login-page-card mx-4 fade-in shadow-2xl" data-aime-line="1873" data-aime-column="9" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9129" data-aime-column="9" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
             <div class="text-center mb-8" data-aime-line="1874" data-aime-column="13" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9130" data-aime-column="13" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
-                <div class="brand-chip mb-5"><span class="brand-chip-dot"></span><span>TikTok Shop 官方风格参考</span></div>
-                <div class="flex items-center justify-center gap-3 mb-4">
+                <div class="login-logo-wrap">
                     <img src="./tiktok-shop-logo.png" alt="TikTok Shop" class="tts-logo">
-                    <div class="text-left">
-                        <div class="text-xs uppercase tracking-[0.25em] text-lake-500 mb-1">TikTok Shop</div>
-                        <h1 class="text-2xl md:text-3xl font-bold tracking-tight tts-accent-text">A段服务商绩效查询</h1>
-                    </div>
                 </div>
-                <p class="login-page-subtitle text-sm md:text-base">请输入服务商账号和查询密码。登录成功后，可查看本供应商所有月份、所有环节的绩效数据，并按条件自由筛选。</p>
+                <div class="mb-4">
+                    <div class="brand-wordmark mb-2">TikTok Shop</div>
+                    <h1 class="text-2xl md:text-3xl font-bold tracking-tight tts-accent-text">A段服务商绩效查询</h1>
+                </div>
+                <p class="login-page-subtitle text-sm md:text-base">请输入服务商账号和查询密码，登录后即可查看本供应商全部月份、全部环节的绩效数据。</p>
             </div>
             <div class="space-y-4 mb-6" data-aime-line="1879" data-aime-column="13" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9135" data-aime-column="13" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
                 <input id="accountInput" type="text" placeholder="请输入账号，例如 kuayue" class="w-full px-4 py-3 rounded-xl border-2 border-lake-200 bg-white text-lake-900 focus:ring-2 focus:ring-lake-300 focus:border-lake-400 transition-all outline-none" onkeypress="if(event.key==='Enter') verifyPassword()">
@@ -11001,14 +11002,14 @@ select {
         <div class="max-w-6xl mx-auto relative" data-aime-line="1899" data-aime-column="9" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9155" data-aime-column="9" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
             <div class="flex items-center justify-between" data-aime-line="1900" data-aime-column="13" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9156" data-aime-column="13" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
                 <div data-aime-line="1901" data-aime-column="17" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9157" data-aime-column="17" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
-                    <div class="flex items-center gap-3 mb-2" data-aime-line="1902" data-aime-column="21" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9158" data-aime-column="21" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
-                        <img src="./tiktok-shop-logo.png" alt="TikTok Shop" class="tts-logo">
+                    <div class="flex items-center gap-4 mb-2" data-aime-line="1902" data-aime-column="21" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9158" data-aime-column="21" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
+                        <img src="./tiktok-shop-logo.png" alt="TikTok Shop" class="header-logo">
                         <div>
-                            <div class="text-xs uppercase tracking-[0.3em] text-white/65 mb-1">TikTok Shop</div>
+                            <div class="brand-wordmark mb-1">TikTok Shop</div>
                             <h1 class="text-2xl md:text-3xl font-bold tracking-tight tts-accent-text" data-aime-line="1904" data-aime-column="25" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="h1" data-aime-line="9160" data-aime-column="25" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="h1">A段服务商绩效查询</h1>
                         </div>
                     </div>
-                    <p class="text-lake-100 text-sm md:text-base mt-1 ml-11" data-aime-line="1906" data-aime-column="21" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="p" data-aime-line="9162" data-aime-column="21" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="p">登录后可查看当前服务商全部月份、全部环节的绩效数据，并支持按条件自由筛选。</p>
+                    <p class="text-lake-100 text-sm md:text-base mt-1 ml-0" data-aime-line="1906" data-aime-column="21" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="p" data-aime-line="9162" data-aime-column="21" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="p">登录后可查看当前服务商全部月份、全部环节的绩效数据，并支持按条件自由筛选。</p>
                 </div>
                 <!-- Sync Info -->
                 <div class="flex flex-col items-end gap-1" data-aime-line="1909" data-aime-column="17" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9165" data-aime-column="17" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
