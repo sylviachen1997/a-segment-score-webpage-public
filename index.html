@@ -11493,7 +11493,12 @@ select {
         const score = records.reduce((sum, r) => sum + r.score, 0);
         const deduction = records.reduce((sum, r) => sum + r.deduction, 0);
         const rate = fullScore > 0 ? (score / fullScore) * 100 : 0;
-        const ratingInfo = getRatingInfo(rate, findStageRating(records));
+        const stageRating = findStageRating(records);
+        const ratingInfo = getRatingInfo(rate, stageRating);
+        const manualPenalty = findManualPenalty(records);
+        const penaltyConclusionHtml = (stageRating && /^([MI])/.test(String(stageRating.rating || '')) && String(stageRating.penalty_text || '').trim())
+            ? `<div class="rounded-xl px-4 py-3 text-sm flex items-start gap-2 bg-rose-50 border border-rose-200 text-rose-800 mt-3"><span class="material-symbols-outlined text-base mt-0.5">gavel</span><span><strong>扣罚结论：</strong>${stageRating.penalty_text}</span></div>`
+            : '';
         const title = warehouse ? `${stage} · ${warehouse}` : stage;
         const alertClass = ratingInfo.alertType === 'praise'
             ? 'rounded-xl px-4 py-3 text-sm flex items-start gap-2 bg-emerald-50 border border-emerald-200 text-emerald-800'
@@ -11524,6 +11529,7 @@ select {
                         <div class="flex items-baseline gap-3 mb-2"><span class="text-base font-bold text-lake-900">${ratingInfo.gradeName}</span><span class="text-sm text-lake-500">综合得分率 ${rate.toFixed(1)}%</span></div>
                         <p class="text-sm text-lake-700 mb-3 leading-relaxed">${ratingInfo.desc}</p>
                         <div class="${alertClass}"><span class="material-symbols-outlined text-base mt-0.5">${ratingInfo.alertIcon}</span><span>${ratingInfo.alertText}</span></div>
+                        ${penaltyConclusionHtml}
                     </div>
                 </div>
             </div>
@@ -11593,7 +11599,9 @@ select {
         const fullScore = results.reduce((sum, r) => sum + r.full_score, 0);
         const score = results.reduce((sum, r) => sum + r.score, 0);
         const rate = fullScore > 0 ? (score / fullScore) * 100 : 0;
-        const ratingInfo = getRatingInfo(rate, findStageRating(results));
+        const stageRating = findStageRating(results);
+        const ratingInfo = getRatingInfo(rate, stageRating);
+        const manualPenalty = findManualPenalty(results);
 
         document.getElementById('ratingBadge').style = ratingInfo.badgeGradient;
         document.getElementById('ratingLetter').textContent = ratingInfo.grade;
@@ -11605,7 +11613,13 @@ select {
         const alertEl = document.getElementById('ratingAlert');
         alertEl.classList.remove('hidden');
         document.getElementById('ratingAlertIcon').textContent = ratingInfo.alertIcon;
-        document.getElementById('ratingAlertText').textContent = ratingInfo.alertText;
+        document.getElementById('ratingAlertText').textContent = [
+            ratingInfo.alertText,
+            (stageRating && /^([MI])/.test(String(stageRating.rating || '')) && String(stageRating.penalty_text || '').trim())
+                ? `扣罚结论：${stageRating.penalty_text}`
+                : '',
+            manualPenalty ? `人工扣罚原因：${manualPenalty.remark}` : ''
+        ].filter(Boolean).join('；');
         alertEl.className = ratingInfo.alertType === 'praise'
             ? 'rounded-xl px-4 py-3 text-sm flex items-start gap-2 bg-emerald-50 border border-emerald-200 text-emerald-800'
             : ratingInfo.alertType === 'penalty'
