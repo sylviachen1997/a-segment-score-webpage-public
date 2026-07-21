@@ -11518,13 +11518,12 @@ select {
         const ratingInfo = getRatingInfo(rate, stageRating);
         const manualPenalty = findManualPenalty(records);
         const penaltyText = String(stageRating?.penalty_text || '').trim();
-        const penaltyAmountMatch = penaltyText.match(/(\d+(?:\.\d+)?)\s*元/);
-        const penaltyAmountText = penaltyAmountMatch ? `，扣罚金额：${penaltyAmountMatch[1]}元` : '';
         const penaltyConclusionHtml = penaltyText
-            ? `<div class="rounded-xl px-4 py-3 text-sm leading-relaxed bg-red-50 border border-red-200 text-red-700 mt-3 font-semibold">⚠️ 触发扣罚：${penaltyText}${penaltyAmountText}</div>`
+            ? `<div class="rounded-xl px-4 py-3 text-sm leading-relaxed bg-red-50 border border-red-200 text-red-700 mt-3 font-semibold">⚠️ 触发扣罚：${penaltyText}，请联系TT对接人确认扣罚详情。</div>`
             : '';
+        const manualPenaltyReason = String(manualPenalty?.remark || '').trim().replace(/\[[^\]]+\]\((https?:\/\/[^)]+)\)/g, '').trim();
         const manualPenaltyHtml = manualPenalty
-            ? `<div class="rounded-xl px-4 py-3 text-sm leading-relaxed bg-red-50 border border-red-200 text-red-700 mt-3 font-semibold">⚠️ 触发扣罚：${manualPenalty.remark || '存在人工扣罚记录，请及时关注。'}</div>`
+            ? `<div class="rounded-xl px-4 py-3 text-sm leading-relaxed bg-red-50 border border-red-200 text-red-700 mt-3 font-semibold">⚠️ 触发扣罚：${manualPenaltyReason || '存在人工扣罚记录，请及时关注。'}，请联系TT对接人确认扣罚详情。</div>`
             : '';
         const title = warehouse ? `${stage} · ${warehouse}` : stage;
         const alertClass = ratingInfo.alertType === 'praise'
@@ -11631,8 +11630,7 @@ select {
         const ratingInfo = getRatingInfo(rate, stageRating);
         const manualPenalty = findManualPenalty(results);
         const penaltyText = String(stageRating?.penalty_text || '').trim();
-        const penaltyAmountMatch = penaltyText.match(/(\d+(?:\.\d+)?)\s*元/);
-        const penaltyAmountText = penaltyAmountMatch ? `，扣罚金额：${penaltyAmountMatch[1]}元` : '';
+        const manualPenaltyReason = String(manualPenalty?.remark || '').trim().replace(/\[[^\]]+\]\((https?:\/\/[^)]+)\)/g, '').trim();
 
         document.getElementById('ratingBadge').style = ratingInfo.badgeGradient;
         document.getElementById('ratingLetter').textContent = ratingInfo.grade;
@@ -11656,10 +11654,10 @@ select {
 
         const extraPenaltyMessages = [];
         if (penaltyText) {
-            extraPenaltyMessages.push(`⚠️ 触发扣罚：${penaltyText}${penaltyAmountText}`);
+            extraPenaltyMessages.push(`⚠️ 触发扣罚：${penaltyText}，请联系TT对接人确认扣罚详情。`);
         }
         if (manualPenalty) {
-            extraPenaltyMessages.push(`⚠️ 触发扣罚：${manualPenalty.remark || '存在人工扣罚记录，请及时关注。'}`);
+            extraPenaltyMessages.push(`⚠️ 触发扣罚：${manualPenaltyReason || '存在人工扣罚记录，请及时关注。'}，请联系TT对接人确认扣罚详情。`);
         }
 
         if (extraPenaltyMessages.length) {
