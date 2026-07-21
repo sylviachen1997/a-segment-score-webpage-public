@@ -11266,6 +11266,7 @@ select {
     let passwords = {};
     let accounts = { vendor_to_account: {}, account_to_vendor: {} };
     let stageRatings = [];
+    let manualPenalties = [];
     let currentUser = null;
     let pendingSearch = null;
 
@@ -11281,6 +11282,7 @@ select {
             allData = json.records;
             filters = json.filters;
             stageRatings = Array.isArray(json.stageRatings) ? json.stageRatings : [];
+            manualPenalties = Array.isArray(json.manualPenalties) ? json.manualPenalties : [];
             accounts = json.accounts || { vendor_to_account: {}, account_to_vendor: {} };
             passwords = await pwResp.json();
             initFilters();
@@ -11467,6 +11469,25 @@ select {
             if (normalizeMonthValue(item.month) !== month) return false;
             if (item.vendor !== vendor) return false;
             if (item.stage !== stage) return false;
+            return !(item.warehouse || '').trim();
+        }) || null;
+    }
+
+    function findManualPenalty(records) {
+        if (!records.length) return null;
+        const month = normalizeMonthValue(records[0].month);
+        const vendor = records[0].vendor;
+        const stage = records[0].stage;
+        const warehouse = (records[0].warehouse || '').trim();
+        return manualPenalties.find(item => {
+            if (normalizeMonthValue(item.month) !== month) return false;
+            if ((item.vendor || '').trim() !== vendor) return false;
+            if ((item.stage || '').trim() !== stage) return false;
+            return ((item.warehouse || '').trim()) === warehouse;
+        }) || manualPenalties.find(item => {
+            if (normalizeMonthValue(item.month) !== month) return false;
+            if ((item.vendor || '').trim() !== vendor) return false;
+            if ((item.stage || '').trim() !== stage) return false;
             return !(item.warehouse || '').trim();
         }) || null;
     }
