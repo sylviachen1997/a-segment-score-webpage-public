@@ -52,30 +52,32 @@
         @keyframes slideUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
         .tts-logo { width: 56px; height: 56px; object-fit: contain; filter: drop-shadow(-2px 0 0 #25f4ee) drop-shadow(2px 0 0 #fe2c55); }
         .tts-accent-text { background: linear-gradient(90deg, #ffffff 0%, #25f4ee 40%, #fe2c55 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
-        body { background: linear-gradient(180deg, #fff7f3 0%, #ffffff 28%, #fffaf6 100%); min-height: 100vh; color: #1f2937; }
-        .glass-card { background: rgba(255,255,255,0.97); backdrop-filter: blur(10px); border: 1px solid #f3ddd3; box-shadow: 0 16px 36px rgba(244, 99, 58, 0.08); }
-        .hero-gradient { background: linear-gradient(135deg, #fff6f1 0%, #fff0e7 52%, #fff8f4 100%); border-bottom: 1px solid #f4ddd2; }
-        .table-row:hover { background: #fff5ef; }
-        .deduction-row { background: #fff4f4; }
-        .deduction-row:hover { background: #ffeceb; }
+        body { background: linear-gradient(180deg, #010101 0%, #111111 16%, #fffafc 16%, #ffffff 100%); min-height: 100vh; color: #111827; }
+        .glass-card { background: rgba(255,255,255,0.98); backdrop-filter: blur(10px); border: 1px solid rgba(37, 244, 238, 0.18); box-shadow: 0 18px 40px rgba(1, 1, 1, 0.08), 0 0 0 1px rgba(254, 44, 85, 0.04); }
+        .hero-gradient { background: linear-gradient(135deg, #010101 0%, #121212 54%, #1f1f1f 100%); border-bottom: 3px solid #25f4ee; }
+        .table-row:hover { background: rgba(37, 244, 238, 0.08); }
+        .deduction-row { background: rgba(254, 44, 85, 0.08); }
+        .deduction-row:hover { background: rgba(254, 44, 85, 0.14); }
         .text-lake-900 { color: #111827 !important; }
-        .text-lake-800, .text-lake-700 { color: #374151 !important; }
-        .text-lake-600, .text-lake-500 { color: #7c5a4b !important; }
-        .text-lake-400, .text-lake-300, .text-lake-200, .text-lake-100 { color: #a78b80 !important; }
-        select, input { background: #ffffff !important; color: #111827 !important; border-color: #efd3c8 !important; }
+        .text-lake-800, .text-lake-700 { color: #1f2937 !important; }
+        .text-lake-600, .text-lake-500 { color: #475569 !important; }
+        .text-lake-400, .text-lake-300, .text-lake-200, .text-lake-100 { color: #64748b !important; }
+        select, input { background: #ffffff !important; color: #111827 !important; border-color: rgba(37, 244, 238, 0.28) !important; }
         select option { color: #111827; }
-        #searchBtn, #loginBtn, #logoutBtn, #confirmLoginBtn { background: linear-gradient(135deg, #ff6b4a 0%, #ff844f 100%) !important; color: #ffffff !important; border: none; font-weight: 600; box-shadow: 0 10px 24px rgba(255, 107, 74, 0.22); }
-        #searchBtn:hover, #loginBtn:hover, #logoutBtn:hover, #confirmLoginBtn:hover { background: linear-gradient(135deg, #f45d3d 0%, #ff7340 100%) !important; box-shadow: 0 12px 28px rgba(255, 107, 74, 0.28); }
-        .login-hint { color: #8b6b60; font-size: 12px; }
-        .modal-overlay { background: radial-gradient(circle at top, rgba(255, 145, 77, 0.12), transparent 36%), linear-gradient(180deg, rgba(255,247,243,0.98), rgba(255,250,246,0.98)); backdrop-filter: blur(6px); }
-        .tts-logo { width: 124px; height: 124px; object-fit: contain; filter: drop-shadow(0 12px 28px rgba(255, 107, 74, 0.16)); }
-        .tts-accent-text { background: none; -webkit-background-clip: initial; -webkit-text-fill-color: initial; color: #111827; }
+        #searchBtn, #loginBtn, #logoutBtn, #confirmLoginBtn { background: linear-gradient(90deg, #25F4EE 0%, #FE2C55 100%) !important; color: #010101 !important; border: none; font-weight: 700; box-shadow: 0 12px 28px rgba(254, 44, 85, 0.24); }
+        #searchBtn:hover, #loginBtn:hover, #logoutBtn:hover, #confirmLoginBtn:hover { background: linear-gradient(90deg, #1de5df 0%, #ff4a6c 100%) !important; box-shadow: 0 14px 32px rgba(37, 244, 238, 0.18), 0 14px 32px rgba(254, 44, 85, 0.18); }
+        .login-hint { color: #94a3b8; font-size: 13px; }
+        .modal-overlay { background: radial-gradient(circle at top, rgba(37, 244, 238, 0.18), transparent 35%), radial-gradient(circle at 85% 15%, rgba(254, 44, 85, 0.18), transparent 28%), linear-gradient(180deg, rgba(1,1,1,0.96), rgba(16,16,16,0.92)); backdrop-filter: blur(8px); }
+        .tts-logo { width: 240px; height: 72px; object-fit: contain; filter: drop-shadow(0 10px 24px rgba(37, 244, 238, 0.18)) drop-shadow(0 10px 24px rgba(254, 44, 85, 0.18)); }
+        .tts-accent-text { color: #ffffff; }
         .page-shell { min-height: 100vh; }
-        .login-page-card { max-width: 520px; box-shadow: 0 28px 70px rgba(244, 99, 58, 0.12); border-radius: 32px; }
-        .login-page-subtitle { color: #7c5a4b; line-height: 1.7; }
-        .brand-wordmark { color: #ff6b4a; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; }
-        .login-logo-wrap { display: flex; justify-content: center; margin-bottom: 20px; }
-        .header-logo { width: 92px; height: 92px; object-fit: contain; filter: drop-shadow(0 10px 22px rgba(255, 107, 74, 0.15)); }
+        .login-page-card { max-width: 560px; box-shadow: 0 32px 80px rgba(0, 0, 0, 0.35); border-radius: 32px; background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.08); }
+        .login-page-subtitle { color: rgba(255,255,255,0.74); line-height: 1.7; }
+        .brand-wordmark { color: #25F4EE; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase; }
+        .login-logo-wrap { display: flex; justify-content: center; margin-bottom: 24px; }
+        .header-logo { width: 180px; height: 54px; object-fit: contain; filter: drop-shadow(0 8px 20px rgba(37, 244, 238, 0.18)) drop-shadow(0 8px 20px rgba(254, 44, 85, 0.18)); }
+        .accent-pill { display: inline-flex; align-items: center; gap: 8px; padding: 6px 12px; border-radius: 999px; background: rgba(37, 244, 238, 0.1); border: 1px solid rgba(37, 244, 238, 0.22); color: #25F4EE; }
+        .accent-pill::before { content: ''; width: 8px; height: 8px; border-radius: 999px; background: #FE2C55; display: inline-block; }
     </style>
 <script type="module" data-aime-line="54" data-aime-column="1" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="script" data-aime-line="54" data-aime-column="1" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="script">
 
@@ -11257,13 +11259,6 @@ select {
         }
     }
 
-    function normalizeStageName(stage) {
-        const map = {
-            'FS前置仓': '前置仓'
-        };
-        return map[stage] || stage || '';
-    }
-
     function normalizeMonthValue(value) {
         if (!value) return '';
         const text = String(value).trim();
@@ -11309,7 +11304,7 @@ select {
         stageSelect.innerHTML = '<option value="">全部环节</option>';
 
         const months = [...new Set(records.map(r => normalizeMonthValue(r.month)).filter(Boolean))].sort().reverse();
-        const stages = [...new Set(records.map(r => normalizeStageName(r.stage)).filter(Boolean))].sort((a, b) => a.localeCompare(b, 'zh-CN'));
+        const stages = [...new Set(records.map(r => r.stage).filter(Boolean))].sort((a, b) => a.localeCompare(b, 'zh-CN'));
 
         months.forEach(m => {
             const opt = document.createElement('option');
@@ -11424,17 +11419,17 @@ select {
         if (!records.length) return null;
         const month = normalizeMonthValue(records[0].month);
         const vendor = records[0].vendor;
-        const stage = normalizeStageName(records[0].stage);
+        const stage = records[0].stage;
         const warehouse = (records[0].warehouse || '').trim();
         return stageRatings.find(item => {
             if (normalizeMonthValue(item.month) !== month) return false;
             if (item.vendor !== vendor) return false;
-            if (normalizeStageName(item.stage) !== stage) return false;
+            if (item.stage !== stage) return false;
             return ((item.warehouse || '').trim()) === warehouse;
         }) || stageRatings.find(item => {
             if (normalizeMonthValue(item.month) !== month) return false;
             if (item.vendor !== vendor) return false;
-            if (normalizeStageName(item.stage) !== stage) return false;
+            if (item.stage !== stage) return false;
             return !(item.warehouse || '').trim();
         }) || null;
     }
@@ -11442,7 +11437,7 @@ select {
     function buildSplitGroups(results) {
         const groups = {};
         results.forEach(r => {
-            const stage = normalizeStageName(r.stage);
+            const stage = r.stage;
             const warehouse = (r.warehouse || '').trim();
             const key = `${stage}__${warehouse}`;
             if (!groups[key]) groups[key] = { stage, warehouse, records: [] };
@@ -11512,7 +11507,7 @@ select {
 
         let results = allData.filter(r => r.vendor === vendor);
         if (month) results = results.filter(r => normalizeMonthValue(r.month) === normalizeMonthValue(month));
-        if (stage) results = results.filter(r => normalizeStageName(r.stage) === stage);
+        if (stage) results = results.filter(r => r.stage === stage);
 
         if (results.length === 0) {
             document.getElementById('resultsSection').classList.add('hidden');
@@ -11744,7 +11739,7 @@ select {
                 const whB = b.warehouse || '';
                 if (whA !== whB) return whA.localeCompare(whB);
             }
-            if (a.stage !== b.stage) return normalizeStageName(a.stage).localeCompare(normalizeStageName(b.stage), 'zh-CN');
+            if (a.stage !== b.stage) return a.stage.localeCompare(b.stage, 'zh-CN');
             if (a.kpi_category !== b.kpi_category) return a.kpi_category.localeCompare(b.kpi_category);
             if (a.kpi_subcategory !== b.kpi_subcategory) return a.kpi_subcategory.localeCompare(b.kpi_subcategory);
             return a.kpi.localeCompare(b.kpi);
@@ -11769,7 +11764,7 @@ select {
 
             tr.innerHTML = `
                 ${warehouseCol}
-                <td class="px-4 py-3 text-lake-800">${normalizeStageName(r.stage)}</td>
+                <td class="px-4 py-3 text-lake-800">${r.stage}</td>
                 <td class="px-4 py-3 text-lake-600">${r.kpi_category}</td>
                 <td class="px-4 py-3 text-lake-600">${r.kpi_subcategory}</td>
                 <td class="px-4 py-3 text-lake-900 font-medium">${cleanKpiName(r.kpi)}</td>
