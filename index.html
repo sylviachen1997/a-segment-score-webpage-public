@@ -49,13 +49,19 @@
         .login-input { height: 52px; font-size: 16px; line-height: 24px; text-align: left; }
         .login-input { color: #1a1a1a !important; -webkit-text-fill-color: #1a1a1a !important; caret-color: #1a1a1a !important; }
         .login-input::placeholder { color: #333333 !important; -webkit-text-fill-color: #333333 !important; opacity: 1; }
+        .filter-grid > div { display: flex; flex-direction: column; justify-content: flex-end; }
+        .filter-control { min-height: 44px; height: 44px; }
+        .section-title-dark { color: #f8fafc !important; }
+        .section-title-accent { color: #25F4EE !important; }
         .refresh-spin { animation: spin 1s linear infinite; }
         @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
         .toast { animation: slideUp 0.3s ease-out; }
         @keyframes slideUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
         .tts-logo { width: 56px; height: 56px; object-fit: contain; filter: drop-shadow(-2px 0 0 #25f4ee) drop-shadow(2px 0 0 #fe2c55); }
         .tts-accent-text { background: linear-gradient(90deg, #ffffff 0%, #25f4ee 40%, #fe2c55 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
-        body { background: linear-gradient(180deg, #010101 0%, #111111 16%, #fffafc 16%, #ffffff 100%); min-height: 100vh; color: #111827; }
+        body { background: #010101; min-height: 100vh; color: #111827; }
+        #appShell { min-height: 100vh; background: linear-gradient(180deg, #010101 0%, #111111 22%, #161616 100%); }
+        main { min-height: calc(100vh - 220px); }
         .glass-card { background: rgba(255,255,255,0.98); backdrop-filter: blur(10px); border: 1px solid rgba(37, 244, 238, 0.18); box-shadow: 0 18px 40px rgba(1, 1, 1, 0.08), 0 0 0 1px rgba(254, 44, 85, 0.04); }
         .hero-gradient { background: linear-gradient(135deg, #010101 0%, #121212 54%, #1f1f1f 100%); border-bottom: 3px solid #25f4ee; }
         .table-row:hover { background: rgba(37, 244, 238, 0.08); }
@@ -11038,7 +11044,6 @@ select {
                     <div class="flex items-center gap-4 mb-2" data-aime-line="1902" data-aime-column="21" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9158" data-aime-column="21" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
                         <img src="./tiktok-shop-logo.png" alt="TikTok Shop" class="header-logo">
                         <div>
-                            <div class="brand-wordmark mb-1">TikTok Shop</div>
                             <h1 class="text-2xl md:text-3xl font-bold tracking-tight tts-accent-text" data-aime-line="1904" data-aime-column="25" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="h1" data-aime-line="9160" data-aime-column="25" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="h1">A段服务商绩效查询</h1>
                         </div>
                     </div>
@@ -11061,7 +11066,7 @@ select {
                 <span class="material-symbols-outlined text-lake-600" data-aime-line="1922" data-aime-column="17" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="span" data-aime-line="9178" data-aime-column="17" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="span">filter_alt</span>
                 <h2 class="text-lg font-semibold text-lake-900" data-aime-line="1923" data-aime-column="17" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="h2" data-aime-line="9179" data-aime-column="17" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="h2">查询条件</h2>
             </div>
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4" data-aime-line="1925" data-aime-column="13" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9181" data-aime-column="13" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
+            <div class="grid filter-grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 items-end" data-aime-line="1925" data-aime-column="13" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9181" data-aime-column="13" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
                 <!-- Vendor -->
                 <div data-aime-line="1927" data-aime-column="17" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9183" data-aime-column="17" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
                     <label class="block text-sm font-medium text-lake-700 mb-1.5" data-aime-line="1928" data-aime-column="21" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="label" data-aime-line="9184" data-aime-column="21" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="label">
@@ -11080,7 +11085,7 @@ select {
                     <label class="block text-sm font-medium text-lake-700 mb-1.5" data-aime-line="1937" data-aime-column="21" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="label" data-aime-line="9193" data-aime-column="21" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="label">
                         <span class="material-symbols-outlined text-sm align-middle mr-1" data-aime-line="1938" data-aime-column="25" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="span" data-aime-line="9194" data-aime-column="25" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="span">calendar_month</span>考核月份
                     </label>
-                    <select id="monthSelect" class="select-custom w-full px-4 py-2.5 rounded-xl border border-lake-200 bg-white text-lake-900 focus:ring-2 focus:ring-lake-300 focus:border-lake-400 transition-all text-sm" data-aime-line="1940" data-aime-column="21" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="select" data-aime-line="9196" data-aime-column="21" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="select">
+                    <select id="monthSelect" class="filter-control select-custom w-full px-4 py-2.5 rounded-xl border border-lake-200 bg-white text-lake-900 focus:ring-2 focus:ring-lake-300 focus:border-lake-400 transition-all text-sm" data-aime-line="1940" data-aime-column="21" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="select" data-aime-line="9196" data-aime-column="21" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="select">
                         <option value="" data-aime-line="1941" data-aime-column="25" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="option" data-aime-line="9197" data-aime-column="25" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="option">请选择月份</option>
                     </select>
                 </div>
@@ -11089,13 +11094,13 @@ select {
                     <label class="block text-sm font-medium text-lake-700 mb-1.5" data-aime-line="1946" data-aime-column="21" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="label" data-aime-line="9202" data-aime-column="21" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="label">
                         <span class="material-symbols-outlined text-sm align-middle mr-1" data-aime-line="1947" data-aime-column="25" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="span" data-aime-line="9203" data-aime-column="25" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="span">route</span>环节
                     </label>
-                    <select id="stageSelect" class="select-custom w-full px-4 py-2.5 rounded-xl border border-lake-200 bg-white text-lake-900 focus:ring-2 focus:ring-lake-300 focus:border-lake-400 transition-all text-sm" data-aime-line="1949" data-aime-column="21" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="select" data-aime-line="9205" data-aime-column="21" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="select">
+                    <select id="stageSelect" class="filter-control select-custom w-full px-4 py-2.5 rounded-xl border border-lake-200 bg-white text-lake-900 focus:ring-2 focus:ring-lake-300 focus:border-lake-400 transition-all text-sm" data-aime-line="1949" data-aime-column="21" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="select" data-aime-line="9205" data-aime-column="21" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="select">
                         <option value="" data-aime-line="1950" data-aime-column="25" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="option" data-aime-line="9206" data-aime-column="25" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="option">全部环节</option>
                     </select>
                 </div>
                 <!-- Search Button -->
                 <div class="flex items-end" data-aime-line="1954" data-aime-column="17" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9210" data-aime-column="17" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
-                    <button id="searchBtn" class="w-full px-6 py-2.5 btn-lake text-white rounded-xl font-medium shadow-lg shadow-lake-200 hover:shadow-xl transition-all active:scale-95 text-sm flex items-center justify-center gap-2" data-aime-line="1955" data-aime-column="21" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="button" data-aime-line="9211" data-aime-column="21" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="button">
+                    <button id="searchBtn" class="filter-control w-full px-6 py-2.5 btn-lake text-white rounded-xl font-medium shadow-lg shadow-lake-200 hover:shadow-xl transition-all active:scale-95 text-sm flex items-center justify-center gap-2" data-aime-line="1955" data-aime-column="21" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="button" data-aime-line="9211" data-aime-column="21" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="button">
                         <span class="material-symbols-outlined text-lg" data-aime-line="1956" data-aime-column="25" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="span" data-aime-line="9212" data-aime-column="25" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="span">search</span>查询
                     </button>
                 </div>
@@ -11137,7 +11142,7 @@ select {
             <div id="warehouseRatingSection" class="hidden mb-6 space-y-5" data-aime-line="1994" data-aime-column="13" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9250" data-aime-column="13" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
                 <div class="flex items-center gap-2 mb-2" data-aime-line="1995" data-aime-column="17" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9251" data-aime-column="17" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
                     <span class="material-symbols-outlined text-lake-600" data-aime-line="1996" data-aime-column="21" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="span" data-aime-line="9252" data-aime-column="21" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="span">warehouse</span>
-                    <h2 class="text-lg font-semibold text-lake-900" data-aime-line="1997" data-aime-column="21" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="h2" data-aime-line="9253" data-aime-column="21" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="h2">各环节 / 仓库绩效评级</h2>
+                    <h2 class="text-lg font-semibold section-title-dark" data-aime-line="1997" data-aime-column="21" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="h2" data-aime-line="9253" data-aime-column="21" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="h2">各环节 / 仓库绩效评级</h2>
                 </div>
                 <div id="warehouseRatingContainer" data-aime-line="1999" data-aime-column="17" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9255" data-aime-column="17" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div"></div>
             </div>
@@ -11616,17 +11621,17 @@ select {
                 '符合预期': { grade: 'M', gradeLabel: 'Meet', badgeGradient: 'background: linear-gradient(135deg, #257f94, #2a9db0)', alertType: 'none', alertIcon: 'check_circle' },
                 '待改进': { grade: 'I', gradeLabel: 'Improve', badgeGradient: 'background: linear-gradient(135deg, #d97706, #f59e0b)', alertType: 'penalty', alertIcon: 'warning' },
                 '不合格': { grade: 'F', gradeLabel: 'Failed', badgeGradient: 'background: linear-gradient(135deg, #dc2626, #ef4444)', alertType: 'penalty', alertIcon: 'error' },
-                'E（Exceed Expectations）高于预期': { grade: 'E', gradeLabel: 'Exceed', badgeGradient: 'background: linear-gradient(135deg, #059669, #10b981)', alertType: 'praise', alertIcon: 'celebration' },
-                'M（Meet Expectations）符合预期': { grade: 'M', gradeLabel: 'Meet', badgeGradient: 'background: linear-gradient(135deg, #257f94, #2a9db0)', alertType: 'none', alertIcon: 'check_circle' },
-                'I（Improvement Needed）待改进': { grade: 'I', gradeLabel: 'Improve', badgeGradient: 'background: linear-gradient(135deg, #d97706, #f59e0b)', alertType: 'penalty', alertIcon: 'warning' },
-                'F（Failed Expectations）不合格': { grade: 'F', gradeLabel: 'Failed', badgeGradient: 'background: linear-gradient(135deg, #dc2626, #ef4444)', alertType: 'penalty', alertIcon: 'error' },
+                'E（Exceed Expectations）高于预期': { grade: 'E', gradeLabel: 'Exceed', badgeGradient: 'background: linear-gradient(135deg, #059669, #10b981)', alertType: 'praise', alertIcon: 'celebration', encouragement: '恭喜获得 E 评级，再接再厉，继续保持领先表现！' },
+                'M（Meet Expectations）符合预期': { grade: 'M', gradeLabel: 'Meet', badgeGradient: 'background: linear-gradient(135deg, #257f94, #2a9db0)', alertType: 'none', alertIcon: 'check_circle', encouragement: '已稳定达到预期，继续保持当前服务水准。' },
+                'I（Improvement Needed）待改进': { grade: 'I', gradeLabel: 'Improve', badgeGradient: 'background: linear-gradient(135deg, #d97706, #f59e0b)', alertType: 'penalty', alertIcon: 'warning', encouragement: '当前仍有提升空间，建议聚焦关键指标持续优化。' },
+                'F（Failed Expectations）不合格': { grade: 'F', gradeLabel: 'Failed', badgeGradient: 'background: linear-gradient(135deg, #dc2626, #ef4444)', alertType: 'penalty', alertIcon: 'error', encouragement: '请尽快排查问题并推进整改，争取尽快回到达标区间。' },
             };
             const matched = map[ratingText] || (ratingText.startsWith('E') ? map['高于预期'] : ratingText.startsWith('M') ? map['符合预期'] : ratingText.startsWith('I') ? map['待改进'] : ratingText.startsWith('F') ? map['不合格'] : map['符合预期']);
             return {
                 ...matched,
                 gradeName: ratingText,
-                desc: stageRating.conclusion || '评级结果已按当前环节配置展示。',
-                alertText: stageRating.conclusion || '评级结果已按当前环节配置展示。'
+                desc: stageRating.conclusion || matched.encouragement || '评级结果已生成，请继续保持稳定表现。',
+                alertText: matched.encouragement || stageRating.conclusion || '评级结果已生成，请继续保持稳定表现。'
             };
         }
         if (rate >= 90) {
@@ -11635,7 +11640,7 @@ select {
                 badgeGradient: 'background: linear-gradient(135deg, #059669, #10b981)',
                 desc: '表现卓越，各项指标均达到或超过预期标准。',
                 alertType: 'praise', alertIcon: 'celebration',
-                alertText: '🎉 恭喜！本月绩效表现优异，超越预期目标，特予以通报表彰！请继续保持高水平服务质量。'
+                alertText: '恭喜获得 E 评级，再接再厉，继续保持领先表现！'
             };
         } else if (rate >= 80) {
             return {
@@ -11643,7 +11648,7 @@ select {
                 badgeGradient: 'background: linear-gradient(135deg, #257f94, #2a9db0)',
                 desc: '整体表现良好，各项指标符合预期标准，无扣罚。',
                 alertType: 'none', alertIcon: 'check_circle',
-                alertText: '当前环节表现稳定，已达到既定服务标准，请继续保持。'
+                alertText: '已稳定达到预期，继续保持当前服务水准。'
             };
         } else if (rate >= 60) {
             return {
@@ -11651,7 +11656,7 @@ select {
                 badgeGradient: 'background: linear-gradient(135deg, #d97706, #f59e0b)',
                 desc: '部分指标未达标，需针对薄弱环节制定改进计划。',
                 alertType: 'penalty', alertIcon: 'warning',
-                alertText: '⚠️ 注意：当前得分率低于80%，根据考核规则，可能触发扣罚考核月度服务费总额的 2%。请及时关注并改善相关指标。'
+                alertText: '当前仍有提升空间，建议聚焦关键指标持续优化。'
             };
         }
         return {
@@ -11659,7 +11664,7 @@ select {
             badgeGradient: 'background: linear-gradient(135deg, #dc2626, #ef4444)',
             desc: '多项核心指标严重不达标，需立即整改。',
             alertType: 'penalty', alertIcon: 'error',
-            alertText: '🚨 警告：当前得分率低于60%，根据考核规则，可能触发扣罚考核月度服务费总额的 5%。请立即排查问题并采取纠正措施。'
+            alertText: '请尽快排查问题并推进整改，争取尽快回到达标区间。'
         };
     }
 
