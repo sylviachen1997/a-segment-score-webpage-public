@@ -1,5 +1,5 @@
 {
-  "lastSynced": "2026-07-21 18:30:03",
+  "lastSynced": "2026-07-21 20:17:27",
   "records": [
     {
       "month": "2025-01",
@@ -103721,13 +103721,5124 @@
   },
   "stageRatings": [
     {
+      "month": "2025-01",
+      "stage": "FS揽收",
+      "vendor": "顺丰",
+      "warehouse": "",
+      "score_total": 96,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "FS揽收",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 80.5,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "FS揽收",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 80.1,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "FS揽收",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 86.1,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "FS揽收",
+      "vendor": "安能",
+      "warehouse": "",
+      "score_total": 79.3999999999999,
+      "rating": "I（Improvement Needed）待改进",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "FS揽收",
+      "vendor": "极兔",
+      "warehouse": "",
+      "score_total": 84.3,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "FS揽收",
+      "vendor": "圆通",
+      "warehouse": "",
+      "score_total": 74.9,
+      "rating": "I（Improvement Needed）待改进",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "FS揽收",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "FS揽收",
+      "vendor": "德邦",
+      "warehouse": "",
+      "score_total": 80.6,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "FS退供",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 83.1922,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "FS退供",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 83,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "FS退供",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 87.5046,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "FS退供",
+      "vendor": "极兔",
+      "warehouse": "",
+      "score_total": 88.1387,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "FS退供",
+      "vendor": "圆通",
+      "warehouse": "",
+      "score_total": 76,
+      "rating": "I（Improvement Needed）待改进",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "FS退供",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "FS退供",
+      "vendor": "申通",
+      "warehouse": "",
+      "score_total": 93.85,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "长途调拨",
+      "vendor": "亚晶",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "长途调拨",
+      "vendor": "万泰",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "长途调拨",
+      "vendor": "上海长途",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "短途调拨",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "POP揽收",
+      "vendor": "菲欧劳伦",
+      "warehouse": "",
+      "score_total": 99,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "前置仓仓内",
+      "vendor": "顺丰",
+      "warehouse": "泉州顺丰",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "前置仓仓内",
+      "vendor": "京东",
+      "warehouse": "揭阳京东",
+      "score_total": 95.5,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "FS卫星仓",
+      "vendor": "宝通",
+      "warehouse": "从化宝通",
+      "score_total": 93.6,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "FS卫星仓",
+      "vendor": "发网",
+      "warehouse": "维龙发网",
+      "score_total": 98.4,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "FS卫星仓",
+      "vendor": "发网",
+      "warehouse": "江门发网",
+      "score_total": 89.6,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "POP外包仓",
+      "vendor": "顺丰",
+      "warehouse": "POP顺丰",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "POP外包仓",
+      "vendor": "万色",
+      "warehouse": "POP万色",
+      "score_total": 95.79,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "包耗材",
+      "vendor": "星宇",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "包耗材",
+      "vendor": "天元",
+      "warehouse": "",
+      "score_total": 99,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "包耗材",
+      "vendor": "递速",
+      "warehouse": "",
+      "score_total": 92,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "包耗材",
+      "vendor": "昶舒",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "US换单",
+      "vendor": "万色",
+      "warehouse": "",
+      "score_total": 86.5,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "质检",
+      "vendor": "京东",
+      "warehouse": "华南",
+      "score_total": 97,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华东",
+      "score_total": 96.69,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-01",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华南",
+      "score_total": 94.3,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "FS揽收",
+      "vendor": "顺丰",
+      "warehouse": "",
+      "score_total": 94.5,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "FS揽收",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 82.9,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "FS揽收",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 80.1999999999999,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "FS揽收",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 94.2,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "FS揽收",
+      "vendor": "安能",
+      "warehouse": "",
+      "score_total": 89.4,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "FS揽收",
+      "vendor": "极兔",
+      "warehouse": "",
+      "score_total": 83.3,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "FS揽收",
+      "vendor": "圆通",
+      "warehouse": "",
+      "score_total": 85.1,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "FS揽收",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "FS揽收",
+      "vendor": "德邦",
+      "warehouse": "",
+      "score_total": 76,
+      "rating": "I（Improvement Needed）待改进",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "FS退供",
+      "vendor": "申通",
+      "warehouse": "",
+      "score_total": 85,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "长途调拨",
+      "vendor": "亚晶",
+      "warehouse": "",
+      "score_total": 88,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "长途调拨",
+      "vendor": "万泰",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "长途调拨",
+      "vendor": "上海长途",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "短途调拨",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 99.6,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "POP揽收",
+      "vendor": "菲欧劳伦",
+      "warehouse": "",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "前置仓仓内",
+      "vendor": "顺丰",
+      "warehouse": "泉州顺丰",
+      "score_total": 99,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "前置仓仓内",
+      "vendor": "京东",
+      "warehouse": "揭阳京东",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "FS卫星仓",
+      "vendor": "宝通",
+      "warehouse": "从化宝通",
+      "score_total": 89.5,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "FS卫星仓",
+      "vendor": "发网",
+      "warehouse": "维龙发网",
+      "score_total": 97.9,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "FS卫星仓",
+      "vendor": "发网",
+      "warehouse": "江门发网",
+      "score_total": 88.8,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "POP外包仓",
+      "vendor": "顺丰",
+      "warehouse": "POP顺丰",
+      "score_total": 94,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "POP外包仓",
+      "vendor": "万色",
+      "warehouse": "POP万色",
+      "score_total": 98.88,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "包耗材",
+      "vendor": "星宇",
+      "warehouse": "",
+      "score_total": 97.78,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "包耗材",
+      "vendor": "天元",
+      "warehouse": "",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "包耗材",
+      "vendor": "递速",
+      "warehouse": "",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "包耗材",
+      "vendor": "昶舒",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "US换单",
+      "vendor": "万色",
+      "warehouse": "",
+      "score_total": 94.8,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "质检",
+      "vendor": "京东",
+      "warehouse": "华南",
+      "score_total": 99.06,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华东",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-02",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华南",
+      "score_total": 90.37,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "FS揽收",
+      "vendor": "顺丰",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "FS揽收",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 88.8,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "FS揽收",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 87.8,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "FS揽收",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 94.2,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "FS揽收",
+      "vendor": "安能",
+      "warehouse": "",
+      "score_total": 81.1,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "FS揽收",
+      "vendor": "极兔",
+      "warehouse": "",
+      "score_total": 88,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "FS揽收",
+      "vendor": "圆通",
+      "warehouse": "",
+      "score_total": 83.5,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "FS揽收",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "FS揽收",
+      "vendor": "德邦",
+      "warehouse": "",
+      "score_total": 73.1,
+      "rating": "I（Improvement Needed）待改进",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "FS退供",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 93.6422,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "FS退供",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 99,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "FS退供",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 89.5951,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "FS退供",
+      "vendor": "极兔",
+      "warehouse": "",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "FS退供",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "FS退供",
+      "vendor": "申通",
+      "warehouse": "",
+      "score_total": 92.6168,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "长途调拨",
+      "vendor": "亚晶",
+      "warehouse": "",
+      "score_total": 94.99,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "长途调拨",
+      "vendor": "万泰",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "长途调拨",
+      "vendor": "上海长途",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "短途调拨",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 97.4,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "短途调拨",
+      "vendor": "上海长途",
+      "warehouse": "",
+      "score_total": 93.86,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "POP揽收",
+      "vendor": "菲欧劳伦",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "前置仓仓内",
+      "vendor": "顺丰",
+      "warehouse": "泉州顺丰",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "前置仓仓内",
+      "vendor": "京东",
+      "warehouse": "揭阳京东",
+      "score_total": 97.5,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "FS卫星仓",
+      "vendor": "宝通",
+      "warehouse": "从化宝通",
+      "score_total": 86.9,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "FS卫星仓",
+      "vendor": "发网",
+      "warehouse": "维龙发网",
+      "score_total": 91.6,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "FS卫星仓",
+      "vendor": "发网",
+      "warehouse": "江门发网",
+      "score_total": 89.3999999999999,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "POP外包仓",
+      "vendor": "顺丰",
+      "warehouse": "POP顺丰",
+      "score_total": 98.82,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "POP外包仓",
+      "vendor": "万色",
+      "warehouse": "POP万色",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "包耗材",
+      "vendor": "星宇",
+      "warehouse": "",
+      "score_total": 99.91,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "包耗材",
+      "vendor": "天元",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "包耗材",
+      "vendor": "递速",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "包耗材",
+      "vendor": "昶舒",
+      "warehouse": "",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "US换单",
+      "vendor": "万色",
+      "warehouse": "",
+      "score_total": 94.85,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "质检",
+      "vendor": "京东",
+      "warehouse": "华南",
+      "score_total": 91.4,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华东",
+      "score_total": 93,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-03",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华南",
+      "score_total": 84.12,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "FS揽收",
+      "vendor": "顺丰",
+      "warehouse": "",
+      "score_total": 98.5,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "FS揽收",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 88.4,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "FS揽收",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 87.3999999999999,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "FS揽收",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 86.1,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "FS揽收",
+      "vendor": "安能",
+      "warehouse": "",
+      "score_total": 86.1,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "FS揽收",
+      "vendor": "极兔",
+      "warehouse": "",
+      "score_total": 86,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "FS揽收",
+      "vendor": "圆通",
+      "warehouse": "",
+      "score_total": 88.3,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "FS揽收",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "FS揽收",
+      "vendor": "德邦",
+      "warehouse": "",
+      "score_total": 76.8,
+      "rating": "I（Improvement Needed）待改进",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "FS退供",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 85.9942,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "FS退供",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 97.782,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "FS退供",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 78.17,
+      "rating": "I（Improvement Needed）待改进",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "FS退供",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 94.025,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "FS退供",
+      "vendor": "申通",
+      "warehouse": "",
+      "score_total": 96.325,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "长途调拨",
+      "vendor": "亚晶",
+      "warehouse": "",
+      "score_total": 88,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "长途调拨",
+      "vendor": "万泰",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "长途调拨",
+      "vendor": "上海长途",
+      "warehouse": "",
+      "score_total": 86.32,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "短途调拨",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 98.2,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "短途调拨",
+      "vendor": "上海长途",
+      "warehouse": "",
+      "score_total": 94.87,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "POP揽收",
+      "vendor": "菲欧劳伦",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "前置仓仓内",
+      "vendor": "顺丰",
+      "warehouse": "泉州顺丰",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "前置仓仓内",
+      "vendor": "京东",
+      "warehouse": "揭阳京东",
+      "score_total": 93.76,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "FS卫星仓",
+      "vendor": "宝通",
+      "warehouse": "从化宝通",
+      "score_total": 91.9,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "FS卫星仓",
+      "vendor": "发网",
+      "warehouse": "维龙发网",
+      "score_total": 85.8999999999999,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "FS卫星仓",
+      "vendor": "发网",
+      "warehouse": "江门发网",
+      "score_total": 83,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "POP外包仓",
+      "vendor": "顺丰",
+      "warehouse": "POP顺丰",
+      "score_total": 95,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "POP外包仓",
+      "vendor": "万色",
+      "warehouse": "POP万色",
+      "score_total": 95,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "包耗材",
+      "vendor": "星宇",
+      "warehouse": "",
+      "score_total": 94.97,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "包耗材",
+      "vendor": "天元",
+      "warehouse": "",
+      "score_total": 99,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "包耗材",
+      "vendor": "花城",
+      "warehouse": "",
+      "score_total": 90,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "包耗材",
+      "vendor": "凯恒达",
+      "warehouse": "",
+      "score_total": 90,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "包耗材",
+      "vendor": "递速",
+      "warehouse": "",
+      "score_total": 97,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "包耗材",
+      "vendor": "昶舒",
+      "warehouse": "",
+      "score_total": 97,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "US换单",
+      "vendor": "万色",
+      "warehouse": "",
+      "score_total": 95.25,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "质检",
+      "vendor": "京东",
+      "warehouse": "华南",
+      "score_total": 82.22,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华东",
+      "score_total": 94.76,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-04",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华南",
+      "score_total": 85.16,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "FS揽收",
+      "vendor": "顺丰",
+      "warehouse": "",
+      "score_total": 98.5,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "FS揽收",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 88.8,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "FS揽收",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 90.2,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "FS揽收",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 84,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "FS揽收",
+      "vendor": "安能",
+      "warehouse": "",
+      "score_total": 88.1,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "FS揽收",
+      "vendor": "极兔",
+      "warehouse": "",
+      "score_total": 90,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "FS揽收",
+      "vendor": "圆通",
+      "warehouse": "",
+      "score_total": 86,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "FS揽收",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "FS揽收",
+      "vendor": "德邦",
+      "warehouse": "",
+      "score_total": 64.6,
+      "rating": "I（Improvement Needed）待改进",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "FS退供",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 82.5,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "FS退供",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 97.96,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "FS退供",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 80.4517999999999,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "FS退供",
+      "vendor": "极兔",
+      "warehouse": "",
+      "score_total": 99,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "FS退供",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 85,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "FS退供",
+      "vendor": "申通",
+      "warehouse": "",
+      "score_total": 93.6125,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "长途调拨",
+      "vendor": "亚晶",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "长途调拨",
+      "vendor": "上海长途",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "短途调拨",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 99.82,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "短途调拨",
+      "vendor": "上海长途",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "POP揽收",
+      "vendor": "菲欧劳伦",
+      "warehouse": "",
+      "score_total": 97.5,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "前置仓仓内",
+      "vendor": "顺丰",
+      "warehouse": "泉州顺丰",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "前置仓仓内",
+      "vendor": "京东",
+      "warehouse": "揭阳京东",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "FS卫星仓",
+      "vendor": "宝通",
+      "warehouse": "从化宝通",
+      "score_total": 87.3,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "FS卫星仓",
+      "vendor": "发网",
+      "warehouse": "维龙发网",
+      "score_total": 85,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "POP外包仓",
+      "vendor": "顺丰",
+      "warehouse": "POP顺丰",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "POP外包仓",
+      "vendor": "万色",
+      "warehouse": "POP万色",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "包耗材",
+      "vendor": "星宇",
+      "warehouse": "",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "包耗材",
+      "vendor": "天元",
+      "warehouse": "",
+      "score_total": 99,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "包耗材",
+      "vendor": "花城",
+      "warehouse": "",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "包耗材",
+      "vendor": "凯恒达",
+      "warehouse": "",
+      "score_total": 97,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "包耗材",
+      "vendor": "锦花",
+      "warehouse": "",
+      "score_total": 83,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "US换单",
+      "vendor": "万色",
+      "warehouse": "",
+      "score_total": 90.55,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "质检",
+      "vendor": "京东",
+      "warehouse": "华南",
+      "score_total": 93.68,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华东",
+      "score_total": 95,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-05",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华南",
+      "score_total": 86.24,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "FS揽收",
+      "vendor": "顺丰",
+      "warehouse": "",
+      "score_total": 97.4,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "FS揽收",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 89.9,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "FS揽收",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 90.1,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "FS揽收",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 87.5,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "FS揽收",
+      "vendor": "安能",
+      "warehouse": "",
+      "score_total": 83.1,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "FS揽收",
+      "vendor": "极兔",
+      "warehouse": "",
+      "score_total": 89.4,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "FS揽收",
+      "vendor": "圆通",
+      "warehouse": "",
+      "score_total": 88.7,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "FS揽收",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "FS揽收",
+      "vendor": "德邦",
+      "warehouse": "",
+      "score_total": 81.5,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "FS退供",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 95.9,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "FS退供",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 96.6,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "FS退供",
+      "vendor": "极兔",
+      "warehouse": "",
+      "score_total": 97.775,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "FS退供",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 83.5,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "FS退供",
+      "vendor": "申通",
+      "warehouse": "",
+      "score_total": 83.5,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "长途调拨",
+      "vendor": "亚晶",
+      "warehouse": "",
+      "score_total": 98.38,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "长途调拨",
+      "vendor": "上海长途",
+      "warehouse": "",
+      "score_total": 98.61,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "短途调拨",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 98.8,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "短途调拨",
+      "vendor": "上海长途",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "POP揽收",
+      "vendor": "菲欧劳伦",
+      "warehouse": "",
+      "score_total": 99,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "前置仓仓内",
+      "vendor": "顺丰",
+      "warehouse": "泉州顺丰",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "前置仓仓内",
+      "vendor": "京东",
+      "warehouse": "揭阳京东",
+      "score_total": 85,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "FS卫星仓",
+      "vendor": "宝通",
+      "warehouse": "从化宝通",
+      "score_total": 87.1,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "FS卫星仓",
+      "vendor": "发网",
+      "warehouse": "维龙发网",
+      "score_total": 86,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "POP外包仓",
+      "vendor": "顺丰",
+      "warehouse": "POP顺丰",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "POP外包仓",
+      "vendor": "菜鸟",
+      "warehouse": "香港菜鸟",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "POP外包仓",
+      "vendor": "万色",
+      "warehouse": "POP万色",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "包耗材",
+      "vendor": "星宇",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "包耗材",
+      "vendor": "天元",
+      "warehouse": "",
+      "score_total": 99,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "包耗材",
+      "vendor": "花城",
+      "warehouse": "",
+      "score_total": 78,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "包耗材",
+      "vendor": "凯恒达",
+      "warehouse": "",
+      "score_total": 96,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "包耗材",
+      "vendor": "锦花",
+      "warehouse": "",
+      "score_total": 99,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "包耗材",
+      "vendor": "递速",
+      "warehouse": "",
+      "score_total": 99,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "US换单",
+      "vendor": "万色",
+      "warehouse": "",
+      "score_total": 95.125,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "质检",
+      "vendor": "京东",
+      "warehouse": "华南",
+      "score_total": 93.8,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华东",
+      "score_total": 83,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-06",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华南",
+      "score_total": 89.7,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "FS揽收",
+      "vendor": "顺丰",
+      "warehouse": "",
+      "score_total": 92.7,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "FS揽收",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 76.2,
+      "rating": "I（Improvement Needed）待改进",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "FS揽收",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 79.9,
+      "rating": "I（Improvement Needed）待改进",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "FS揽收",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 92.6,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "FS揽收",
+      "vendor": "安能",
+      "warehouse": "",
+      "score_total": 81.6,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "FS揽收",
+      "vendor": "极兔",
+      "warehouse": "",
+      "score_total": 78.5,
+      "rating": "I（Improvement Needed）待改进",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "FS揽收",
+      "vendor": "圆通",
+      "warehouse": "",
+      "score_total": 85.7,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "FS揽收",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "FS退供",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 76.9,
+      "rating": "I（Improvement Needed）待改进",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "FS退供",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 98.9,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "FS退供",
+      "vendor": "极兔",
+      "warehouse": "",
+      "score_total": 82.23,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "FS退供",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 85,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "FS退供",
+      "vendor": "申通",
+      "warehouse": "",
+      "score_total": 91.5,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "长途调拨",
+      "vendor": "亚晶",
+      "warehouse": "",
+      "score_total": 99.58,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "短途调拨",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 99.4,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "短途调拨",
+      "vendor": "上海长途",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "POP揽收",
+      "vendor": "菲欧劳伦",
+      "warehouse": "",
+      "score_total": 99,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "前置仓仓内",
+      "vendor": "顺丰",
+      "warehouse": "泉州顺丰",
+      "score_total": 99.37,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "前置仓仓内",
+      "vendor": "京东",
+      "warehouse": "揭阳京东",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "FS卫星仓",
+      "vendor": "宝通",
+      "warehouse": "花都宝通",
+      "score_total": 87.1,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "FS卫星仓",
+      "vendor": "发网",
+      "warehouse": "维龙发网",
+      "score_total": 74.6,
+      "rating": "I（Improvement Needed）待改进",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "POP外包仓",
+      "vendor": "顺丰",
+      "warehouse": "POP顺丰",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "POP外包仓",
+      "vendor": "菜鸟",
+      "warehouse": "香港菜鸟",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "POP外包仓",
+      "vendor": "万色",
+      "warehouse": "POP万色",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "包耗材",
+      "vendor": "星宇",
+      "warehouse": "",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "包耗材",
+      "vendor": "天元",
+      "warehouse": "",
+      "score_total": 99,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "包耗材",
+      "vendor": "花城",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "包耗材",
+      "vendor": "凯恒达",
+      "warehouse": "",
+      "score_total": 97,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "包耗材",
+      "vendor": "锦花",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "包耗材",
+      "vendor": "递速",
+      "warehouse": "",
+      "score_total": 95,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "US换单",
+      "vendor": "万色",
+      "warehouse": "",
+      "score_total": 94.2,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "质检",
+      "vendor": "京东",
+      "warehouse": "华南",
+      "score_total": 94,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华东",
+      "score_total": 88,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-07",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华南",
+      "score_total": 90.6,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "FS揽收",
+      "vendor": "顺丰",
+      "warehouse": "",
+      "score_total": 81.9,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "FS揽收",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 93,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "FS揽收",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 80.5,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "FS揽收",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 95,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "FS揽收",
+      "vendor": "安能",
+      "warehouse": "",
+      "score_total": 81.8,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "FS揽收",
+      "vendor": "极兔",
+      "warehouse": "",
+      "score_total": 74.9,
+      "rating": "I（Improvement Needed）待改进",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "FS揽收",
+      "vendor": "圆通",
+      "warehouse": "",
+      "score_total": 86.7,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "FS揽收",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "FS退供",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 89.5,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "FS退供",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "FS退供",
+      "vendor": "极兔",
+      "warehouse": "",
+      "score_total": 90.55,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "FS退供",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 85,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "FS退供",
+      "vendor": "申通",
+      "warehouse": "",
+      "score_total": 97.09,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "长途调拨",
+      "vendor": "亚晶",
+      "warehouse": "",
+      "score_total": 99.51,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "短途调拨",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 98.8,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "短途调拨",
+      "vendor": "上海长途",
+      "warehouse": "",
+      "score_total": 99.5,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "POP揽收",
+      "vendor": "菲欧劳伦",
+      "warehouse": "",
+      "score_total": 99,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "前置仓仓内",
+      "vendor": "顺丰",
+      "warehouse": "泉州顺丰",
+      "score_total": 93.1,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "前置仓仓内",
+      "vendor": "京东",
+      "warehouse": "揭阳京东",
+      "score_total": 84,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "FS卫星仓",
+      "vendor": "宝通",
+      "warehouse": "花都宝通",
+      "score_total": 92.1,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "POP外包仓",
+      "vendor": "顺丰",
+      "warehouse": "POP顺丰",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "POP外包仓",
+      "vendor": "菜鸟",
+      "warehouse": "香港菜鸟",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "POP外包仓",
+      "vendor": "万色",
+      "warehouse": "POP万色",
+      "score_total": 99.64,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "包耗材",
+      "vendor": "星宇",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "包耗材",
+      "vendor": "天元",
+      "warehouse": "",
+      "score_total": 95,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "包耗材",
+      "vendor": "花城",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "包耗材",
+      "vendor": "凯恒达",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "包耗材",
+      "vendor": "锦花",
+      "warehouse": "",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "包耗材",
+      "vendor": "递速",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "US换单",
+      "vendor": "万色",
+      "warehouse": "",
+      "score_total": 95.4,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "质检",
+      "vendor": "京东",
+      "warehouse": "华南",
+      "score_total": 92.7,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华东",
+      "score_total": 88,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-08",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华南",
+      "score_total": 90.1,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "FS揽收",
+      "vendor": "顺丰",
+      "warehouse": "",
+      "score_total": 91,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "FS揽收",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 99,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "FS揽收",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 69.3,
+      "rating": "I（Improvement Needed）待改进",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "FS揽收",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 83.8,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "FS揽收",
+      "vendor": "安能",
+      "warehouse": "",
+      "score_total": 85.5,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "FS揽收",
+      "vendor": "极兔",
+      "warehouse": "",
+      "score_total": 74.9,
+      "rating": "I（Improvement Needed）待改进",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "FS揽收",
+      "vendor": "圆通",
+      "warehouse": "",
+      "score_total": 81.4,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "FS揽收",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 97.5,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "FS退供",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "FS退供",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 97.8,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "FS退供",
+      "vendor": "极兔",
+      "warehouse": "",
+      "score_total": 81.0399999999999,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "FS退供",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 80,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "FS退供",
+      "vendor": "申通",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "长途调拨",
+      "vendor": "亚晶",
+      "warehouse": "",
+      "score_total": 94.26,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "短途调拨",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "短途调拨",
+      "vendor": "上海长途",
+      "warehouse": "",
+      "score_total": 93.5,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "POP揽收",
+      "vendor": "菲欧劳伦",
+      "warehouse": "",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "前置仓仓内",
+      "vendor": "顺丰",
+      "warehouse": "泉州顺丰",
+      "score_total": 86.9,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "前置仓仓内",
+      "vendor": "京东",
+      "warehouse": "揭阳京东",
+      "score_total": 85,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "FS卫星仓",
+      "vendor": "菜鸟",
+      "warehouse": "维龙菜鸟",
+      "score_total": 96.3999999999999,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "FS卫星仓",
+      "vendor": "宝通",
+      "warehouse": "花都宝通",
+      "score_total": 81.8,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "POP外包仓",
+      "vendor": "顺丰",
+      "warehouse": "POP顺丰",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "POP外包仓",
+      "vendor": "菜鸟",
+      "warehouse": "香港菜鸟",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "POP外包仓",
+      "vendor": "万色",
+      "warehouse": "POP万色",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "包耗材",
+      "vendor": "星宇",
+      "warehouse": "",
+      "score_total": 99,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "包耗材",
+      "vendor": "天元",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "包耗材",
+      "vendor": "花城",
+      "warehouse": "",
+      "score_total": 97,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "包耗材",
+      "vendor": "凯恒达",
+      "warehouse": "",
+      "score_total": 97,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "包耗材",
+      "vendor": "锦花",
+      "warehouse": "",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "包耗材",
+      "vendor": "递速",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "US换单",
+      "vendor": "万色",
+      "warehouse": "",
+      "score_total": 97.4,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "质检",
+      "vendor": "京东",
+      "warehouse": "华南",
+      "score_total": 95,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华东",
+      "score_total": 88,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-09",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华南",
+      "score_total": 90.5,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "FS揽收",
+      "vendor": "顺丰",
+      "warehouse": "",
+      "score_total": 95,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "FS揽收",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 92.4,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "FS揽收",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 77.4,
+      "rating": "I（Improvement Needed）待改进",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "FS揽收",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 91.5,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "FS揽收",
+      "vendor": "安能",
+      "warehouse": "",
+      "score_total": 84.6,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "FS揽收",
+      "vendor": "极兔",
+      "warehouse": "",
+      "score_total": 83.9,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "FS揽收",
+      "vendor": "圆通",
+      "warehouse": "",
+      "score_total": 82.1999999999999,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "FS揽收",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 99,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "FS退供",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 96.775,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "FS退供",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "FS退供",
+      "vendor": "极兔",
+      "warehouse": "",
+      "score_total": 92.8049999999999,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "FS退供",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 86.35,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "FS退供",
+      "vendor": "申通",
+      "warehouse": "",
+      "score_total": 99.0399999999999,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "长途调拨",
+      "vendor": "亚晶",
+      "warehouse": "",
+      "score_total": 95.36,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "长途调拨",
+      "vendor": "万泰",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "短途调拨",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 99.9,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "短途调拨",
+      "vendor": "上海长途",
+      "warehouse": "",
+      "score_total": 94.9,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "POP揽收",
+      "vendor": "菲欧劳伦",
+      "warehouse": "",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "前置仓仓内",
+      "vendor": "顺丰",
+      "warehouse": "泉州顺丰",
+      "score_total": 98.6,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "前置仓仓内",
+      "vendor": "京东",
+      "warehouse": "揭阳京东",
+      "score_total": 97.5,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "FS卫星仓",
+      "vendor": "菜鸟",
+      "warehouse": "维龙菜鸟",
+      "score_total": 98.2,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "FS卫星仓",
+      "vendor": "宝通",
+      "warehouse": "花都宝通",
+      "score_total": 74.6999999999999,
+      "rating": "I（Improvement Needed）待改进",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "POP外包仓",
+      "vendor": "顺丰",
+      "warehouse": "POP顺丰",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "POP外包仓",
+      "vendor": "菜鸟",
+      "warehouse": "香港菜鸟",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "POP外包仓",
+      "vendor": "万色",
+      "warehouse": "POP万色",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "包耗材",
+      "vendor": "星宇",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "包耗材",
+      "vendor": "天元",
+      "warehouse": "",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "包耗材",
+      "vendor": "花城",
+      "warehouse": "",
+      "score_total": 98.5,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "包耗材",
+      "vendor": "凯恒达",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "包耗材",
+      "vendor": "锦花",
+      "warehouse": "",
+      "score_total": 83,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "包耗材",
+      "vendor": "递速",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "US换单",
+      "vendor": "万色",
+      "warehouse": "",
+      "score_total": 97.2,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "质检",
+      "vendor": "京东",
+      "warehouse": "华南",
+      "score_total": 98.1,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华东",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华南",
+      "score_total": 90.9,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "人力",
+      "vendor": "众包",
+      "warehouse": "华南",
+      "score_total": 87.5,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "人力",
+      "vendor": "众包",
+      "warehouse": "POP",
+      "score_total": 97.5,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "人力",
+      "vendor": "泰索斯",
+      "warehouse": "华南",
+      "score_total": 90,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "人力",
+      "vendor": "泰索斯",
+      "warehouse": "POP",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "人力",
+      "vendor": "安乐",
+      "warehouse": "华南",
+      "score_total": 96.4,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "人力",
+      "vendor": "中航",
+      "warehouse": "华南",
+      "score_total": 98.3,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "人力",
+      "vendor": "成之恒",
+      "warehouse": "华南",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "人力",
+      "vendor": "成之恒",
+      "warehouse": "POP",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "人力",
+      "vendor": "君润",
+      "warehouse": "华南",
+      "score_total": 93.8,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "人力",
+      "vendor": "途志",
+      "warehouse": "华南",
+      "score_total": 93.1,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "人力",
+      "vendor": "特顺",
+      "warehouse": "华东",
+      "score_total": 79.6,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-10",
+      "stage": "人力",
+      "vendor": "智威",
+      "warehouse": "质检",
+      "score_total": 82.5,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "FS揽收",
+      "vendor": "顺丰",
+      "warehouse": "",
+      "score_total": 96.7,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "FS揽收",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 98.7,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "FS揽收",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 83.5,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "FS揽收",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 95.8999999999999,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "FS揽收",
+      "vendor": "安能",
+      "warehouse": "",
+      "score_total": 92.9,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "FS揽收",
+      "vendor": "极兔",
+      "warehouse": "",
+      "score_total": 93.1999999999999,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "FS揽收",
+      "vendor": "圆通",
+      "warehouse": "",
+      "score_total": 90.4,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "FS揽收",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 90,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "FS退供",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 90.925,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "FS退供",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 76,
+      "rating": "I（Improvement Needed）待改进",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "FS退供",
+      "vendor": "极兔",
+      "warehouse": "",
+      "score_total": 87.3,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "FS退供",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 98.7,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "FS退供",
+      "vendor": "申通",
+      "warehouse": "",
+      "score_total": 99.74,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "长途调拨",
+      "vendor": "亚晶",
+      "warehouse": "",
+      "score_total": 87.6,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "长途调拨",
+      "vendor": "万泰",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "短途调拨",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "短途调拨",
+      "vendor": "上海长途",
+      "warehouse": "",
+      "score_total": 98.2,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "POP揽收",
+      "vendor": "菲欧劳伦",
+      "warehouse": "",
+      "score_total": 99,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "前置仓仓内",
+      "vendor": "顺丰",
+      "warehouse": "泉州顺丰",
+      "score_total": 97.8,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "前置仓仓内",
+      "vendor": "京东",
+      "warehouse": "金华京东",
+      "score_total": 92,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "前置仓仓内",
+      "vendor": "京东",
+      "warehouse": "揭阳京东",
+      "score_total": 97.6,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "前置仓仓内",
+      "vendor": "菜鸟",
+      "warehouse": "金华菜鸟",
+      "score_total": 85.8999999999999,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "前置仓仓内",
+      "vendor": "嘉诚",
+      "warehouse": "温台嘉诚",
+      "score_total": 95.8999999999999,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "FS卫星仓",
+      "vendor": "菜鸟",
+      "warehouse": "维龙菜鸟",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "FS卫星仓",
+      "vendor": "宝通",
+      "warehouse": "花都宝通",
+      "score_total": 91.3,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "POP外包仓",
+      "vendor": "顺丰",
+      "warehouse": "POP顺丰",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "POP外包仓",
+      "vendor": "菜鸟",
+      "warehouse": "香港菜鸟",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "POP外包仓",
+      "vendor": "万色",
+      "warehouse": "POP万色",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "包耗材",
+      "vendor": "星宇",
+      "warehouse": "",
+      "score_total": 96,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "包耗材",
+      "vendor": "天元",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "包耗材",
+      "vendor": "花城",
+      "warehouse": "",
+      "score_total": 85,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "包耗材",
+      "vendor": "凯恒达",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "包耗材",
+      "vendor": "锦花",
+      "warehouse": "",
+      "score_total": 95,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "US换单",
+      "vendor": "万色",
+      "warehouse": "",
+      "score_total": 96,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "质检",
+      "vendor": "京东",
+      "warehouse": "华南",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华东",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华南",
+      "score_total": 97.7,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "人力",
+      "vendor": "众包",
+      "warehouse": "华南",
+      "score_total": 90.1,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "人力",
+      "vendor": "众包",
+      "warehouse": "POP",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "人力",
+      "vendor": "泰索斯",
+      "warehouse": "华南",
+      "score_total": 95,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "人力",
+      "vendor": "泰索斯",
+      "warehouse": "POP",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "人力",
+      "vendor": "安乐",
+      "warehouse": "华南",
+      "score_total": 76.8,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "人力",
+      "vendor": "中航",
+      "warehouse": "华南",
+      "score_total": 87.6,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "人力",
+      "vendor": "成之恒",
+      "warehouse": "华南",
+      "score_total": 72.3999999999999,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "人力",
+      "vendor": "成之恒",
+      "warehouse": "POP",
+      "score_total": 97,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "人力",
+      "vendor": "君润",
+      "warehouse": "华南",
+      "score_total": 95.7,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "人力",
+      "vendor": "途志",
+      "warehouse": "华南",
+      "score_total": 98.1,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "人力",
+      "vendor": "特顺",
+      "warehouse": "华东",
+      "score_total": 76.1,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-11",
+      "stage": "人力",
+      "vendor": "智威",
+      "warehouse": "质检",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "FS揽收",
+      "vendor": "顺丰",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "FS揽收",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 99,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "FS揽收",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 89.8,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "FS揽收",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 85.6,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "FS揽收",
+      "vendor": "安能",
+      "warehouse": "",
+      "score_total": 81.2,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "FS揽收",
+      "vendor": "极兔",
+      "warehouse": "",
+      "score_total": 93.9,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "FS揽收",
+      "vendor": "圆通",
+      "warehouse": "",
+      "score_total": 91.3,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "FS揽收",
+      "vendor": "诚信",
+      "warehouse": "",
+      "score_total": 99.9,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "FS揽收",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 92.6,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "FS退供",
+      "vendor": "顺丰",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "FS退供",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 93.375,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "FS退供",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 85,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "FS退供",
+      "vendor": "极兔",
+      "warehouse": "",
+      "score_total": 59.32,
+      "rating": "F（Failed）不合格",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "FS退供",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 99.1375,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "FS退供",
+      "vendor": "申通",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "长途调拨",
+      "vendor": "亚晶",
+      "warehouse": "",
+      "score_total": 87.2,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "长途调拨",
+      "vendor": "万泰",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "短途调拨",
+      "vendor": "上海长途",
+      "warehouse": "",
+      "score_total": 82,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "POP揽收",
+      "vendor": "菲欧劳伦",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "前置仓仓内",
+      "vendor": "顺丰",
+      "warehouse": "泉州顺丰",
+      "score_total": 98.4,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "前置仓仓内",
+      "vendor": "京东",
+      "warehouse": "金华京东",
+      "score_total": 96.3,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "前置仓仓内",
+      "vendor": "京东",
+      "warehouse": "揭阳京东",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "前置仓仓内",
+      "vendor": "菜鸟",
+      "warehouse": "金华菜鸟",
+      "score_total": 91.7,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "前置仓仓内",
+      "vendor": "嘉诚",
+      "warehouse": "温台嘉诚",
+      "score_total": 92.9,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "FS卫星仓",
+      "vendor": "菜鸟",
+      "warehouse": "维龙菜鸟",
+      "score_total": 98.2,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "FS卫星仓",
+      "vendor": "宝通",
+      "warehouse": "花都宝通",
+      "score_total": 91.9,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "POP外包仓",
+      "vendor": "顺丰",
+      "warehouse": "POP顺丰",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "POP外包仓",
+      "vendor": "菜鸟",
+      "warehouse": "香港菜鸟",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "POP外包仓",
+      "vendor": "万色",
+      "warehouse": "POP万色",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "US换单",
+      "vendor": "万色",
+      "warehouse": "",
+      "score_total": 95.22,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "质检",
+      "vendor": "京东",
+      "warehouse": "华南",
+      "score_total": 97.8999999999999,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华东",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华南",
+      "score_total": 97.1,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "人力",
+      "vendor": "众包",
+      "warehouse": "华南",
+      "score_total": 71.6,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "人力",
+      "vendor": "众包",
+      "warehouse": "POP",
+      "score_total": 97.8,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "人力",
+      "vendor": "泰索斯",
+      "warehouse": "华南",
+      "score_total": 95.6,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "人力",
+      "vendor": "泰索斯",
+      "warehouse": "POP",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "人力",
+      "vendor": "安乐",
+      "warehouse": "华东",
+      "score_total": 71.7,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "人力",
+      "vendor": "安乐",
+      "warehouse": "华南",
+      "score_total": 99.2,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "人力",
+      "vendor": "中航",
+      "warehouse": "华南",
+      "score_total": 88.2,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "人力",
+      "vendor": "成之恒",
+      "warehouse": "华南",
+      "score_total": 90,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "人力",
+      "vendor": "成之恒",
+      "warehouse": "POP",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "人力",
+      "vendor": "君润",
+      "warehouse": "华南",
+      "score_total": 98.3,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "人力",
+      "vendor": "途志",
+      "warehouse": "华南",
+      "score_total": 89.9,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "人力",
+      "vendor": "特顺",
+      "warehouse": "华东",
+      "score_total": 68.6999999999999,
+      "rating": "I（Improvement Needed）待改进",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2025-12",
+      "stage": "人力",
+      "vendor": "智威",
+      "warehouse": "质检",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "FS揽收",
+      "vendor": "顺丰",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "FS揽收",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 99.2,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "FS揽收",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 84.3,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "FS揽收",
+      "vendor": "任易调",
+      "warehouse": "",
+      "score_total": 98.5,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "FS揽收",
+      "vendor": "安能",
+      "warehouse": "",
+      "score_total": 83,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "FS揽收",
+      "vendor": "极兔",
+      "warehouse": "",
+      "score_total": 91.6,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "FS揽收",
+      "vendor": "圆通",
+      "warehouse": "",
+      "score_total": 82.5,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "FS揽收",
+      "vendor": "诚信",
+      "warehouse": "",
+      "score_total": 97,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "FS揽收",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 97.4,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "FS退供",
+      "vendor": "顺丰",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "FS退供",
+      "vendor": "京东",
+      "warehouse": "",
+      "score_total": 92.5875,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "FS退供",
+      "vendor": "中通",
+      "warehouse": "",
+      "score_total": 85,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "FS退供",
+      "vendor": "极兔",
+      "warehouse": "",
+      "score_total": 84.463,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "FS退供",
+      "vendor": "圆通",
+      "warehouse": "",
+      "score_total": 84,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "FS退供",
+      "vendor": "跨越",
+      "warehouse": "",
+      "score_total": 98.3875,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "FS退供",
+      "vendor": "申通",
+      "warehouse": "",
+      "score_total": 98.8684210529999,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "长途调拨",
+      "vendor": "亚晶",
+      "warehouse": "",
+      "score_total": 87.2,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "长途调拨",
+      "vendor": "万泰",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "短途调拨",
+      "vendor": "德悦",
+      "warehouse": "",
+      "score_total": 97,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "短途调拨",
+      "vendor": "日日顺",
+      "warehouse": "",
+      "score_total": 91,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "POP揽收",
+      "vendor": "菲欧劳伦",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "前置仓仓内",
+      "vendor": "顺丰",
+      "warehouse": "泉州顺丰",
+      "score_total": 98.5,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "前置仓仓内",
+      "vendor": "京东",
+      "warehouse": "金华京东",
+      "score_total": 98.7,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "前置仓仓内",
+      "vendor": "京东",
+      "warehouse": "揭阳京东",
+      "score_total": 99.3,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "前置仓仓内",
+      "vendor": "菜鸟",
+      "warehouse": "金华菜鸟",
+      "score_total": 94.5,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "前置仓仓内",
+      "vendor": "嘉诚",
+      "warehouse": "温台嘉诚",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "FS卫星仓",
+      "vendor": "菜鸟",
+      "warehouse": "维龙菜鸟",
+      "score_total": 93.7,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "FS卫星仓",
+      "vendor": "宝通",
+      "warehouse": "花都宝通",
+      "score_total": 89.3,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "POP外包仓",
+      "vendor": "顺丰",
+      "warehouse": "POP顺丰",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "POP外包仓",
+      "vendor": "菜鸟",
+      "warehouse": "香港菜鸟",
+      "score_total": 97.96,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "POP外包仓",
+      "vendor": "万色",
+      "warehouse": "POP万色",
+      "score_total": 99,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "包耗材",
+      "vendor": "星宇",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "包耗材",
+      "vendor": "天元",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "包耗材",
+      "vendor": "花城",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "包耗材",
+      "vendor": "凯恒达",
+      "warehouse": "",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "包耗材",
+      "vendor": "锦花",
+      "warehouse": "",
+      "score_total": 99,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "包耗材",
+      "vendor": "递速",
+      "warehouse": "",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "US换单",
+      "vendor": "万色",
+      "warehouse": "",
+      "score_total": 92.2,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "质检",
+      "vendor": "京东",
+      "warehouse": "华南",
+      "score_total": 98.4,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华东",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "质检",
+      "vendor": "嘉诚",
+      "warehouse": "华南",
+      "score_total": 96.3,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "安防",
+      "vendor": "天盾",
+      "warehouse": "洪梅",
+      "score_total": 87,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "安防",
+      "vendor": "天盾",
+      "warehouse": "嘉兴",
+      "score_total": 96,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "保洁",
+      "vendor": "德润",
+      "warehouse": "华东",
+      "score_total": 96,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "保洁",
+      "vendor": "德润",
+      "warehouse": "华南",
+      "score_total": 97,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "人力",
+      "vendor": "众包",
+      "warehouse": "华南",
+      "score_total": 90,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "人力",
+      "vendor": "众包",
+      "warehouse": "POP",
+      "score_total": 60,
+      "rating": "I（Improvement Needed）待改进",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "人力",
+      "vendor": "泰索斯",
+      "warehouse": "华南",
+      "score_total": 80,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "人力",
+      "vendor": "泰索斯",
+      "warehouse": "POP",
+      "score_total": 98.8,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "人力",
+      "vendor": "安乐",
+      "warehouse": "华东",
+      "score_total": 79.2,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "人力",
+      "vendor": "安乐",
+      "warehouse": "华南",
+      "score_total": 99.6,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "人力",
+      "vendor": "中航",
+      "warehouse": "华南",
+      "score_total": 98.2,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "人力",
+      "vendor": "成之恒",
+      "warehouse": "华南",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "人力",
+      "vendor": "成之恒",
+      "warehouse": "POP",
+      "score_total": 73.7,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "人力",
+      "vendor": "君润",
+      "warehouse": "华南",
+      "score_total": 86.7,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "人力",
+      "vendor": "途志",
+      "warehouse": "华南",
+      "score_total": 99.7,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "人力",
+      "vendor": "特顺",
+      "warehouse": "华东",
+      "score_total": 90,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-01",
+      "stage": "人力",
+      "vendor": "智威",
+      "warehouse": "质检",
+      "score_total": 100,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
       "month": "2026-02",
       "stage": "FS揽收",
       "vendor": "顺丰",
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103736,7 +108847,8 @@
       "warehouse": "",
       "score_total": 91.8,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103745,7 +108857,8 @@
       "warehouse": "",
       "score_total": 80.1,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103754,7 +108867,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103763,7 +108877,8 @@
       "warehouse": "",
       "score_total": 79,
       "rating": "I（Improvement Needed）待改进",
-      "penalty_text": "扣罚考核月度服务费总额的3%"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103772,7 +108887,8 @@
       "warehouse": "",
       "score_total": 91.6,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103781,7 +108897,8 @@
       "warehouse": "",
       "score_total": 73.3,
       "rating": "I（Improvement Needed）待改进",
-      "penalty_text": "扣罚考核月度服务费总额的3%"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103790,7 +108907,8 @@
       "warehouse": "",
       "score_total": 97,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103799,7 +108917,8 @@
       "warehouse": "",
       "score_total": 95.7,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103808,7 +108927,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103817,7 +108937,8 @@
       "warehouse": "",
       "score_total": 82.92544832,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103826,7 +108947,8 @@
       "warehouse": "",
       "score_total": 85,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103835,7 +108957,8 @@
       "warehouse": "",
       "score_total": 78.182,
       "rating": "I（Improvement Needed）待改进",
-      "penalty_text": "扣罚考核月度服务费总额的3%"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103844,7 +108967,8 @@
       "warehouse": "",
       "score_total": 84,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103853,7 +108977,8 @@
       "warehouse": "",
       "score_total": 83.428,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103862,7 +108987,8 @@
       "warehouse": "",
       "score_total": 85,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103871,7 +108997,8 @@
       "warehouse": "",
       "score_total": 88,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103880,7 +109007,8 @@
       "warehouse": "",
       "score_total": 96.8,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103889,7 +109017,8 @@
       "warehouse": "",
       "score_total": 97,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103898,7 +109027,8 @@
       "warehouse": "",
       "score_total": 91,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103907,7 +109037,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103916,7 +109047,8 @@
       "warehouse": "泉州顺丰",
       "score_total": 91.8999999999999,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103925,7 +109057,8 @@
       "warehouse": "金华京东",
       "score_total": 99,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103934,7 +109067,8 @@
       "warehouse": "揭阳京东",
       "score_total": 97.6,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103943,7 +109077,8 @@
       "warehouse": "金华菜鸟",
       "score_total": 87.8,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103952,7 +109087,8 @@
       "warehouse": "温台嘉诚",
       "score_total": 92.1,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103961,7 +109097,8 @@
       "warehouse": "维龙菜鸟",
       "score_total": 98.8,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103970,7 +109107,8 @@
       "warehouse": "花都宝通",
       "score_total": 92.7,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103979,7 +109117,8 @@
       "warehouse": "POP顺丰",
       "score_total": 96,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103988,7 +109127,8 @@
       "warehouse": "香港菜鸟",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -103997,7 +109137,8 @@
       "warehouse": "POP万色",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104006,7 +109147,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104015,7 +109157,8 @@
       "warehouse": "",
       "score_total": 98,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104024,7 +109167,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104033,7 +109177,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104042,7 +109187,8 @@
       "warehouse": "",
       "score_total": 97,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104051,7 +109197,8 @@
       "warehouse": "",
       "score_total": 98,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104060,7 +109207,8 @@
       "warehouse": "",
       "score_total": 96.8,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104069,7 +109217,8 @@
       "warehouse": "华南",
       "score_total": 97.7,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104078,7 +109227,8 @@
       "warehouse": "华东",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104087,7 +109237,8 @@
       "warehouse": "华南",
       "score_total": 98.7,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104096,7 +109247,8 @@
       "warehouse": "花都",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104105,7 +109257,8 @@
       "warehouse": "华东",
       "score_total": 98,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104114,7 +109267,8 @@
       "warehouse": "华南",
       "score_total": 97,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104123,7 +109277,8 @@
       "warehouse": "华南",
       "score_total": 95,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104132,7 +109287,8 @@
       "warehouse": "POP",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104141,7 +109297,8 @@
       "warehouse": "华南",
       "score_total": 70.4,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "无扣罚"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104150,7 +109307,8 @@
       "warehouse": "POP",
       "score_total": 70,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "无扣罚"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104159,7 +109317,8 @@
       "warehouse": "华东",
       "score_total": 90,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104168,7 +109327,8 @@
       "warehouse": "华南",
       "score_total": 97.1,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104177,7 +109337,8 @@
       "warehouse": "华南",
       "score_total": 91.8999999999999,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104186,7 +109347,8 @@
       "warehouse": "华南",
       "score_total": 99,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104195,7 +109357,8 @@
       "warehouse": "POP",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104204,7 +109367,8 @@
       "warehouse": "华南",
       "score_total": 94.2,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104213,7 +109377,8 @@
       "warehouse": "华南",
       "score_total": 96,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104222,7 +109387,8 @@
       "warehouse": "华东",
       "score_total": 95,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-02",
@@ -104231,7 +109397,8 @@
       "warehouse": "质检",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104240,7 +109407,8 @@
       "warehouse": "",
       "score_total": 90.4,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104249,7 +109417,8 @@
       "warehouse": "",
       "score_total": 84.2,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104258,7 +109427,8 @@
       "warehouse": "",
       "score_total": 95,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104267,7 +109437,8 @@
       "warehouse": "",
       "score_total": 79,
       "rating": "I（Improvement Needed）待改进",
-      "penalty_text": "扣罚考核月度服务费总额的3%"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104276,7 +109447,8 @@
       "warehouse": "",
       "score_total": 85.9,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104285,7 +109457,8 @@
       "warehouse": "",
       "score_total": 88.4,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104294,7 +109467,8 @@
       "warehouse": "",
       "score_total": 97.5,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104303,7 +109477,8 @@
       "warehouse": "",
       "score_total": 97.8,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104312,7 +109487,8 @@
       "warehouse": "",
       "score_total": 98,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104321,7 +109497,8 @@
       "warehouse": "",
       "score_total": 94.725,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104330,7 +109507,8 @@
       "warehouse": "",
       "score_total": 92.6625,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104339,7 +109517,8 @@
       "warehouse": "",
       "score_total": 79.112,
       "rating": "I（Improvement Needed）待改进",
-      "penalty_text": "扣罚考核月度服务费总额的3%"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104348,7 +109527,8 @@
       "warehouse": "",
       "score_total": 83,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104357,7 +109537,8 @@
       "warehouse": "",
       "score_total": 91.3875,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104366,7 +109547,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104375,7 +109557,8 @@
       "warehouse": "",
       "score_total": 86.09,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104384,7 +109567,8 @@
       "warehouse": "",
       "score_total": 85,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104393,7 +109577,8 @@
       "warehouse": "",
       "score_total": 99.6,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104402,7 +109587,8 @@
       "warehouse": "",
       "score_total": 91,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104411,7 +109597,8 @@
       "warehouse": "",
       "score_total": 85,
       "rating": "I（Improvement Needed）待改进",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104420,7 +109607,8 @@
       "warehouse": "泉州顺丰",
       "score_total": 99.6,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104429,7 +109617,8 @@
       "warehouse": "金华京东",
       "score_total": 98.1,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104438,7 +109627,8 @@
       "warehouse": "揭阳京东",
       "score_total": 98.4,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104447,7 +109637,8 @@
       "warehouse": "金华菜鸟",
       "score_total": 94.2,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104456,7 +109647,8 @@
       "warehouse": "温台嘉诚",
       "score_total": 97.5,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104465,7 +109657,8 @@
       "warehouse": "维龙菜鸟",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104474,7 +109667,8 @@
       "warehouse": "花都宝通",
       "score_total": 86.2,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "不奖不罚"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104483,7 +109677,8 @@
       "warehouse": "POP顺丰",
       "score_total": 90,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104492,7 +109687,8 @@
       "warehouse": "香港菜鸟",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104501,7 +109697,8 @@
       "warehouse": "POP万色",
       "score_total": 90,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104510,7 +109707,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104519,7 +109717,8 @@
       "warehouse": "",
       "score_total": 98.3,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104528,7 +109727,8 @@
       "warehouse": "",
       "score_total": 93.1,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104537,7 +109737,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104546,7 +109747,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104555,7 +109757,8 @@
       "warehouse": "",
       "score_total": 99,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104564,7 +109767,8 @@
       "warehouse": "",
       "score_total": 96,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104573,7 +109777,8 @@
       "warehouse": "华南",
       "score_total": 98.8,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104582,7 +109787,8 @@
       "warehouse": "华东",
       "score_total": 91.3,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104591,7 +109797,8 @@
       "warehouse": "华南",
       "score_total": 96.9,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104600,7 +109807,8 @@
       "warehouse": "花都",
       "score_total": 95,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104609,7 +109817,8 @@
       "warehouse": "华南",
       "score_total": 91,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104618,7 +109827,8 @@
       "warehouse": "POP",
       "score_total": 94,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104627,7 +109837,8 @@
       "warehouse": "华南",
       "score_total": 91.9,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104636,7 +109847,8 @@
       "warehouse": "POP",
       "score_total": 90.3,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104645,7 +109857,8 @@
       "warehouse": "华东",
       "score_total": 90,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104654,7 +109867,8 @@
       "warehouse": "华南",
       "score_total": 95.3,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104663,7 +109877,8 @@
       "warehouse": "华南",
       "score_total": 71.1,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "无扣罚"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104672,7 +109887,8 @@
       "warehouse": "华南",
       "score_total": 94.8,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104681,7 +109897,8 @@
       "warehouse": "POP",
       "score_total": 94.4,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104690,7 +109907,8 @@
       "warehouse": "华南",
       "score_total": 93.3,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104699,7 +109917,8 @@
       "warehouse": "华南",
       "score_total": 90,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104708,7 +109927,8 @@
       "warehouse": "华东",
       "score_total": 94.5,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-03",
@@ -104717,7 +109937,8 @@
       "warehouse": "质检",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104726,7 +109947,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104735,7 +109957,8 @@
       "warehouse": "",
       "score_total": 99,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104744,7 +109967,8 @@
       "warehouse": "",
       "score_total": 92.6469999999999,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104753,7 +109977,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104762,7 +109987,8 @@
       "warehouse": "",
       "score_total": 79,
       "rating": "I（Improvement Needed）待改进",
-      "penalty_text": "扣罚考核月度服务费总额的3%"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104771,7 +109997,8 @@
       "warehouse": "",
       "score_total": 89.2794,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104780,7 +110007,8 @@
       "warehouse": "",
       "score_total": 92.9256,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104789,7 +110017,8 @@
       "warehouse": "",
       "score_total": 97.5,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104798,7 +110027,8 @@
       "warehouse": "",
       "score_total": 98.9714,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104807,7 +110037,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104816,7 +110047,8 @@
       "warehouse": "",
       "score_total": 98.7,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104825,7 +110057,8 @@
       "warehouse": "",
       "score_total": 91.165,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104834,7 +110067,8 @@
       "warehouse": "",
       "score_total": 73.5,
       "rating": "I（Improvement Needed）待改进",
-      "penalty_text": "扣罚考核月度服务费总额的3%"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104843,7 +110077,8 @@
       "warehouse": "",
       "score_total": 83,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104852,7 +110087,8 @@
       "warehouse": "",
       "score_total": 97.98,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104861,7 +110097,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104870,7 +110107,8 @@
       "warehouse": "",
       "score_total": 95.8,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104879,7 +110117,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104888,7 +110127,8 @@
       "warehouse": "",
       "score_total": 98.2,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104897,7 +110137,8 @@
       "warehouse": "",
       "score_total": 95.5,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104906,7 +110147,8 @@
       "warehouse": "",
       "score_total": 99,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104915,7 +110157,8 @@
       "warehouse": "泉州顺丰",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104924,7 +110167,8 @@
       "warehouse": "金华京东",
       "score_total": 99,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104933,7 +110177,8 @@
       "warehouse": "揭阳京东",
       "score_total": 89.6,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104942,7 +110187,8 @@
       "warehouse": "金华菜鸟",
       "score_total": 93.4,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104951,7 +110197,8 @@
       "warehouse": "温台嘉诚",
       "score_total": 98.1,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104960,7 +110207,8 @@
       "warehouse": "维龙菜鸟",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104969,7 +110217,8 @@
       "warehouse": "花都宝通",
       "score_total": 88.1,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "不奖不罚"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104978,7 +110227,8 @@
       "warehouse": "POP顺丰",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104987,7 +110237,8 @@
       "warehouse": "香港菜鸟",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -104996,7 +110247,8 @@
       "warehouse": "POP万色",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -105005,7 +110257,8 @@
       "warehouse": "",
       "score_total": 97,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -105014,7 +110267,8 @@
       "warehouse": "华南",
       "score_total": 98.6,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -105023,7 +110277,8 @@
       "warehouse": "华东",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -105032,7 +110287,8 @@
       "warehouse": "花都",
       "score_total": 97,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -105041,7 +110297,8 @@
       "warehouse": "洪梅",
       "score_total": 98,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -105050,7 +110307,8 @@
       "warehouse": "嘉兴",
       "score_total": 98,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -105059,7 +110317,8 @@
       "warehouse": "华南",
       "score_total": 87.8,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -105068,7 +110327,8 @@
       "warehouse": "POP",
       "score_total": 95.6,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -105077,7 +110337,8 @@
       "warehouse": "华南",
       "score_total": 96.7,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -105086,7 +110347,8 @@
       "warehouse": "POP",
       "score_total": 75.9,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "无扣罚"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -105095,7 +110357,8 @@
       "warehouse": "华东",
       "score_total": 90,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -105104,7 +110367,8 @@
       "warehouse": "华南",
       "score_total": 95.5,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -105113,7 +110377,8 @@
       "warehouse": "华南",
       "score_total": 93.5,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -105122,7 +110387,8 @@
       "warehouse": "华南",
       "score_total": 95.5,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -105131,7 +110397,8 @@
       "warehouse": "POP",
       "score_total": 98,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -105140,7 +110407,8 @@
       "warehouse": "华南",
       "score_total": 75.1,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "无扣罚"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -105149,7 +110417,8 @@
       "warehouse": "华南",
       "score_total": 74.2,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "无扣罚"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -105158,7 +110427,8 @@
       "warehouse": "华东",
       "score_total": 98.2,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -105167,7 +110437,8 @@
       "warehouse": "质检",
       "score_total": 91.4,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-04",
@@ -105176,7 +110447,8 @@
       "warehouse": "全仓",
       "score_total": 85,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105185,7 +110457,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105194,7 +110467,8 @@
       "warehouse": "",
       "score_total": 99,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105203,7 +110477,8 @@
       "warehouse": "",
       "score_total": 84.8999999999999,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105212,7 +110487,8 @@
       "warehouse": "",
       "score_total": 99.6123076923077,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105221,7 +110497,8 @@
       "warehouse": "",
       "score_total": 81.3676923076923,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105230,7 +110507,8 @@
       "warehouse": "",
       "score_total": 96.06,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105239,7 +110517,8 @@
       "warehouse": "",
       "score_total": 95.3,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105248,7 +110527,8 @@
       "warehouse": "",
       "score_total": 88.5,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105257,7 +110537,8 @@
       "warehouse": "",
       "score_total": 98,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105266,7 +110547,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105275,7 +110557,8 @@
       "warehouse": "",
       "score_total": 98,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105284,7 +110567,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105293,7 +110577,8 @@
       "warehouse": "",
       "score_total": 88.18,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105302,7 +110587,8 @@
       "warehouse": "",
       "score_total": 84,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105311,7 +110597,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105320,7 +110607,8 @@
       "warehouse": "",
       "score_total": 99.7299999999999,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105329,7 +110617,8 @@
       "warehouse": "",
       "score_total": 100.4,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105338,7 +110627,8 @@
       "warehouse": "",
       "score_total": 99.2,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105347,7 +110637,8 @@
       "warehouse": "",
       "score_total": 99.6,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105356,7 +110647,8 @@
       "warehouse": "",
       "score_total": 99,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105365,7 +110657,8 @@
       "warehouse": "泉州顺丰",
       "score_total": 99.8,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105374,7 +110667,8 @@
       "warehouse": "金华京东",
       "score_total": 99.8,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105383,7 +110677,8 @@
       "warehouse": "揭阳京东",
       "score_total": 93.075,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105392,7 +110687,8 @@
       "warehouse": "金华菜鸟",
       "score_total": 96.145,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105401,7 +110697,8 @@
       "warehouse": "温台嘉诚",
       "score_total": 96.355,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105410,7 +110707,8 @@
       "warehouse": "维龙菜鸟",
       "score_total": 98.5,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105419,7 +110717,8 @@
       "warehouse": "维龙菜鸟",
       "score_total": 80.05,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "不奖不罚"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105428,7 +110727,8 @@
       "warehouse": "POP顺丰",
       "score_total": 99.7599999999999,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105437,7 +110737,8 @@
       "warehouse": "香港菜鸟",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105446,7 +110747,8 @@
       "warehouse": "POP万色",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105455,7 +110757,8 @@
       "warehouse": "",
       "score_total": 96.2,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105464,7 +110767,8 @@
       "warehouse": "华南",
       "score_total": 99.46,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105473,7 +110777,8 @@
       "warehouse": "华东",
       "score_total": 99.148,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105482,7 +110787,8 @@
       "warehouse": "华南",
       "score_total": 94.4732,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105491,7 +110797,8 @@
       "warehouse": "华南",
       "score_total": 91.6,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105500,7 +110807,8 @@
       "warehouse": "POP",
       "score_total": 92.5,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105509,7 +110817,8 @@
       "warehouse": "华南",
       "score_total": 72.3,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "无扣罚"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105518,7 +110827,8 @@
       "warehouse": "POP",
       "score_total": 68.6,
       "rating": "I（Improvement Needed）待改进",
-      "penalty_text": "扣罚考核月度风险金和服务费的5%"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105527,7 +110837,8 @@
       "warehouse": "华东",
       "score_total": 90,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105536,7 +110847,8 @@
       "warehouse": "华南",
       "score_total": 90,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105545,7 +110857,8 @@
       "warehouse": "华南",
       "score_total": 90,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105554,7 +110867,8 @@
       "warehouse": "华南",
       "score_total": 93.8,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105563,7 +110877,8 @@
       "warehouse": "POP",
       "score_total": 90.4,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105572,7 +110887,8 @@
       "warehouse": "华南",
       "score_total": 90,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105581,7 +110897,8 @@
       "warehouse": "华南",
       "score_total": 90,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105590,7 +110907,8 @@
       "warehouse": "华东",
       "score_total": 99.2,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105599,7 +110917,8 @@
       "warehouse": "质检",
       "score_total": 88.3,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105608,7 +110927,8 @@
       "warehouse": "全仓",
       "score_total": 85,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105617,7 +110937,8 @@
       "warehouse": "华东",
       "score_total": 99.9998631999999,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105626,7 +110947,8 @@
       "warehouse": "华南",
       "score_total": 94.6999999999999,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105635,7 +110957,8 @@
       "warehouse": "华南",
       "score_total": 96.9,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105644,7 +110967,8 @@
       "warehouse": "华南",
       "score_total": 96.36,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105653,7 +110977,8 @@
       "warehouse": "华南",
       "score_total": 96.4,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105662,7 +110987,8 @@
       "warehouse": "华南",
       "score_total": 96.8,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105671,7 +110997,8 @@
       "warehouse": "华东",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-05",
@@ -105680,7 +111007,8 @@
       "warehouse": "花都",
       "score_total": 99.53,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105689,7 +111017,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105698,7 +111027,8 @@
       "warehouse": "",
       "score_total": 99,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105707,7 +111037,8 @@
       "warehouse": "",
       "score_total": 90.4107692307692,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105716,7 +111047,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105725,7 +111057,8 @@
       "warehouse": "",
       "score_total": 94.1353846153846,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105734,7 +111067,8 @@
       "warehouse": "",
       "score_total": 93.3723076923077,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105743,7 +111077,8 @@
       "warehouse": "",
       "score_total": 97.5,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105752,7 +111087,8 @@
       "warehouse": "",
       "score_total": 98,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105761,7 +111097,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105770,7 +111107,8 @@
       "warehouse": "",
       "score_total": 97.5,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105779,7 +111117,8 @@
       "warehouse": "",
       "score_total": 87.3875,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105788,7 +111127,8 @@
       "warehouse": "",
       "score_total": 80.92,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105797,7 +111137,8 @@
       "warehouse": "",
       "score_total": 82,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "良好，无奖惩"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105806,7 +111147,8 @@
       "warehouse": "",
       "score_total": 95.375,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105815,7 +111157,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105824,7 +111167,8 @@
       "warehouse": "",
       "score_total": 98.8,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105833,7 +111177,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105842,7 +111187,8 @@
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105851,7 +111197,8 @@
       "warehouse": "泉州顺丰",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105860,7 +111207,8 @@
       "warehouse": "金华京东",
       "score_total": 99,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105869,7 +111217,8 @@
       "warehouse": "揭阳京东",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105878,7 +111227,8 @@
       "warehouse": "金华菜鸟",
       "score_total": 92.7324999999999,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105887,7 +111237,8 @@
       "warehouse": "温台嘉诚",
       "score_total": 97.7049999999999,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105896,7 +111247,8 @@
       "warehouse": "",
       "score_total": 99,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "到仓及时率：1条不达标 扣当月运费 1%；扣罚上限3000元",
+      "remark": "[2026年服务商考核-菲欧劳伦](https://bytedance.larkoffice.com/wiki/Hn4DwAT1ciQscykmc0hc9cyOnBf?from=from_copylink&sheet=NMnTJM)"
     },
     {
       "month": "2026-06",
@@ -105905,7 +111257,8 @@
       "warehouse": "泉州顺丰",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105914,7 +111267,8 @@
       "warehouse": "金华京东",
       "score_total": 95,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105923,7 +111277,8 @@
       "warehouse": "揭阳京东",
       "score_total": 96.845,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105932,7 +111287,8 @@
       "warehouse": "金华菜鸟",
       "score_total": 99.715,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105941,7 +111297,8 @@
       "warehouse": "温台嘉诚",
       "score_total": 99.61,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105950,7 +111307,8 @@
       "warehouse": "维龙菜鸟",
       "score_total": 98.5,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105959,7 +111317,8 @@
       "warehouse": "维龙菜鸟",
       "score_total": 77.6928571428575,
       "rating": "I（Improvement Needed）待改进",
-      "penalty_text": "扣罚考核月度服务费总额的2%"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105968,7 +111327,8 @@
       "warehouse": "POP顺丰",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105977,7 +111337,8 @@
       "warehouse": "香港菜鸟",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105986,7 +111347,8 @@
       "warehouse": "POP万色",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -105995,7 +111357,8 @@
       "warehouse": "",
       "score_total": 97,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106004,7 +111367,8 @@
       "warehouse": "",
       "score_total": 95.6,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106013,7 +111377,8 @@
       "warehouse": "",
       "score_total": 99.865,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106022,7 +111387,8 @@
       "warehouse": "",
       "score_total": 97,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106031,7 +111397,8 @@
       "warehouse": "",
       "score_total": 91,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106040,7 +111407,8 @@
       "warehouse": "",
       "score_total": 93.5,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106049,7 +111417,8 @@
       "warehouse": "",
       "score_total": 95.1,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106058,7 +111427,8 @@
       "warehouse": "华南",
       "score_total": 98.47,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106067,7 +111437,8 @@
       "warehouse": "华东",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106076,7 +111447,8 @@
       "warehouse": "华南",
       "score_total": 96.13,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106085,7 +111457,8 @@
       "warehouse": "花都",
       "score_total": 98,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106094,7 +111467,8 @@
       "warehouse": "嘉兴",
       "score_total": 96,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106103,7 +111477,8 @@
       "warehouse": "华东",
       "score_total": 98,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106112,7 +111487,8 @@
       "warehouse": "华南",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106121,7 +111497,8 @@
       "warehouse": "华南",
       "score_total": 92.3,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106130,7 +111507,8 @@
       "warehouse": "POP",
       "score_total": 82.1,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106139,7 +111517,8 @@
       "warehouse": "华南",
       "score_total": 93.7,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106148,7 +111527,8 @@
       "warehouse": "POP",
       "score_total": 99.3,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106157,7 +111537,8 @@
       "warehouse": "华东",
       "score_total": 93.3,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106166,7 +111547,8 @@
       "warehouse": "华南",
       "score_total": 91,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106175,7 +111557,8 @@
       "warehouse": "华南",
       "score_total": 90,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106184,7 +111567,8 @@
       "warehouse": "华南",
       "score_total": 71.3,
       "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "无扣罚"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106193,7 +111577,8 @@
       "warehouse": "POP",
       "score_total": 81.2,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106202,7 +111587,8 @@
       "warehouse": "华南",
       "score_total": 93.7,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106211,7 +111597,8 @@
       "warehouse": "华南",
       "score_total": 87.5,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106220,7 +111607,8 @@
       "warehouse": "华东",
       "score_total": 93.2,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106229,7 +111617,8 @@
       "warehouse": "质检",
       "score_total": 80,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "奖励（季度TOP3）"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106238,7 +111627,8 @@
       "warehouse": "华东",
       "score_total": 99.9998632,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106247,7 +111637,8 @@
       "warehouse": "华南",
       "score_total": 96.2,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106256,7 +111647,8 @@
       "warehouse": "华南",
       "score_total": 96.9,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106265,7 +111657,8 @@
       "warehouse": "华南",
       "score_total": 92.2,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106274,7 +111667,8 @@
       "warehouse": "华南",
       "score_total": 96,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106283,7 +111677,8 @@
       "warehouse": "华南",
       "score_total": 96.6,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "优秀，给予通报表彰"
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106292,7 +111687,8 @@
       "warehouse": "华东",
       "score_total": 99.5,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     },
     {
       "month": "2026-06",
@@ -106301,7 +111697,8 @@
       "warehouse": "花都",
       "score_total": 99.84,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": ""
+      "penalty_text": "",
+      "remark": ""
     }
   ],
   "accounts": {
@@ -106397,5 +111794,16 @@
       "shunfeng": "顺丰",
       "gaofan": "高凡"
     }
-  }
+  },
+  "manualPenalties": [
+    {
+      "month": "2026-06",
+      "stage": "POP揽收",
+      "vendor": "菲欧劳伦",
+      "warehouse": "",
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "到仓及时率：1条不达标 扣当月运费 1%；扣罚上限3000元",
+      "remark": "[2026年服务商考核-菲欧劳伦](https://bytedance.larkoffice.com/wiki/Hn4DwAT1ciQscykmc0hc9cyOnBf?from=from_copylink&sheet=NMnTJM)"
+    }
+  ]
 }
