@@ -47,7 +47,8 @@
         .modal-overlay { background: rgba(18, 47, 57, 0.5); backdrop-filter: blur(4px); }
         .password-input { letter-spacing: normal; font-size: 16px; text-align: left; }
         .login-input { height: 52px; font-size: 16px; line-height: 24px; text-align: left; }
-        .login-input::placeholder { color: #111827 !important; opacity: 1; }
+        .login-input { color: #1a1a1a !important; -webkit-text-fill-color: #1a1a1a !important; caret-color: #1a1a1a !important; }
+        .login-input::placeholder { color: #333333 !important; -webkit-text-fill-color: #333333 !important; opacity: 1; }
         .refresh-spin { animation: spin 1s linear infinite; }
         @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
         .toast { animation: slideUp 0.3s ease-out; }
@@ -92,8 +93,8 @@
         .login-page-card .login-page-subtitle,
         .login-page-card .login-hint { color: rgba(255,255,255,0.78) !important; }
         .login-page-card input,
-        .login-page-card select,
-        .login-page-card input::placeholder { color: #111827 !important; }
+        .login-page-card select { color: #1a1a1a !important; -webkit-text-fill-color: #1a1a1a !important; caret-color: #1a1a1a !important; }
+        .login-page-card input::placeholder { color: #333333 !important; -webkit-text-fill-color: #333333 !important; opacity: 1; }
         select, input { background: #ffffff !important; color: #111827 !important; border-color: rgba(37, 244, 238, 0.28) !important; }
         select option { color: #111827; }
         #searchBtn, #loginBtn, #logoutBtn, #confirmLoginBtn { background: linear-gradient(90deg, #25F4EE 0%, #FE2C55 100%) !important; color: #ffffff !important; border: none; font-weight: 700; box-shadow: 0 12px 28px rgba(254, 44, 85, 0.24); }
