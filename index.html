@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="zh-CN" data-aime-line="1" data-aime-column="16" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="html" data-aime-line="1" data-aime-column="16" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="html"><head data-aime-line="1" data-aime-column="35" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="head" data-aime-line="1" data-aime-column="360" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="head">
     <meta charset="UTF-8" data-aime-line="2" data-aime-column="5" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="meta" data-aime-line="2" data-aime-column="5" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="meta">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" data-aime-line="3" data-aime-column="5" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="meta" data-aime-line="3" data-aime-column="5" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="meta">
-    <title data-aime-line="4" data-aime-column="5" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="title" data-aime-line="4" data-aime-column="5" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="title">TTS A段服务商绩效查询</title>
+    <title data-aime-line="4" data-aime-column="5" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="title" data-aime-line="4" data-aime-column="5" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="title">TikTok Shop 服务商绩效驾驶舱</title>
     <script src="https://cdn.tailwindcss.com" data-aime-line="5" data-aime-column="5" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="script" data-aime-line="5" data-aime-column="5" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="script"></script>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet" data-aime-line="6" data-aime-column="5" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="link" data-aime-line="6" data-aime-column="5" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="link">
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" data-aime-line="7" data-aime-column="5" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="link" data-aime-line="7" data-aime-column="5" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="link">
@@ -50,6 +50,21 @@
         @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
         .toast { animation: slideUp 0.3s ease-out; }
         @keyframes slideUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+        .tts-logo { width: 56px; height: 56px; object-fit: contain; filter: drop-shadow(-2px 0 0 #25f4ee) drop-shadow(2px 0 0 #fe2c55); }
+        .tts-accent-text { background: linear-gradient(90deg, #ffffff 0%, #25f4ee 40%, #fe2c55 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        body { background: radial-gradient(circle at top, rgba(37,244,238,0.16), transparent 35%), radial-gradient(circle at 80% 0%, rgba(254,44,85,0.18), transparent 25%), #0f0f10; min-height: 100vh; color: #f5f5f5; }
+        .glass-card { background: rgba(23, 23, 26, 0.88); backdrop-filter: blur(14px); border: 1px solid rgba(255,255,255,0.08); box-shadow: 0 12px 40px rgba(0,0,0,0.32), 0 0 0 1px rgba(37,244,238,0.04) inset; }
+        .hero-gradient { background: linear-gradient(135deg, #0f0f10 0%, #17181c 34%, #25f4ee 35%, #0f0f10 36%, #0f0f10 55%, #fe2c55 56%, #17181c 57%, #0f0f10 100%); }
+        .table-row:hover { background: rgba(37,244,238,0.08); }
+        .deduction-row { background: rgba(254,44,85,0.08); }
+        .deduction-row:hover { background: rgba(254,44,85,0.14); }
+        .text-lake-900, .text-lake-800, .text-lake-700 { color: #f5f5f5 !important; }
+        .text-lake-600, .text-lake-500 { color: #b7f9f5 !important; }
+        .text-lake-400, .text-lake-300 { color: rgba(255,255,255,0.58) !important; }
+        select, input { background: rgba(255,255,255,0.06) !important; color: #fff !important; border-color: rgba(255,255,255,0.12) !important; }
+        select option { color: #111; }
+        #searchBtn, #loginBtn, #logoutBtn, #confirmLoginBtn { background: linear-gradient(90deg, #25f4ee, #fe2c55) !important; color: #0f0f10 !important; border: none; font-weight: 700; }
+        .login-hint { color: rgba(255,255,255,0.72); font-size: 12px; }
     </style>
 <script type="module" data-aime-line="54" data-aime-column="1" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="script" data-aime-line="54" data-aime-column="1" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="script">
 
@@ -10943,12 +10958,14 @@ select {
         <div class="glass-card rounded-2xl p-8 w-full max-w-sm mx-4 fade-in shadow-2xl" data-aime-line="1873" data-aime-column="9" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9129" data-aime-column="9" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
             <div class="text-center mb-6" data-aime-line="1874" data-aime-column="13" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9130" data-aime-column="13" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
                 <span class="material-symbols-outlined text-4xl text-lake-500 mb-2" data-aime-line="1875" data-aime-column="17" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="span" data-aime-line="9131" data-aime-column="17" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="span">lock</span>
-                <h3 class="text-lg font-semibold text-lake-900" data-aime-line="1876" data-aime-column="17" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="h3" data-aime-line="9132" data-aime-column="17" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="h3">身份验证</h3>
-                <p class="text-sm text-lake-600 mt-1" data-aime-line="1877" data-aime-column="17" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="p" data-aime-line="9133" data-aime-column="17" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="p">请输入 <span id="modalVendorName" class="font-medium" data-aime-line="1877" data-aime-column="59" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="span" data-aime-line="9133" data-aime-column="384" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="span"></span> 的查询密码</p>
+                <h3 class="text-lg font-semibold text-lake-900" data-aime-line="1876" data-aime-column="17" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="h3" data-aime-line="9132" data-aime-column="17" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="h3">服务商登录</h3>
+                <p class="text-sm text-lake-600 mt-1" data-aime-line="1877" data-aime-column="17" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="p" data-aime-line="9133" data-aime-column="17" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="p">请输入账号（英文拼音）和查询密码</p>
             </div>
-            <div class="mb-5" data-aime-line="1879" data-aime-column="13" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9135" data-aime-column="13" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
+            <div class="space-y-3 mb-5" data-aime-line="1879" data-aime-column="13" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9135" data-aime-column="13" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
+                <input id="accountInput" type="text" placeholder="请输入账号，例如 kuayue" class="w-full px-4 py-3 rounded-xl border-2 border-lake-200 bg-white text-lake-900 focus:ring-2 focus:ring-lake-300 focus:border-lake-400 transition-all outline-none" onkeypress="if(event.key==='Enter') verifyPassword()">
                 <input id="passwordInput" type="password" maxlength="6" placeholder="请输入6位数字密码" class="password-input w-full px-4 py-3 rounded-xl border-2 border-lake-200 bg-white text-lake-900 focus:ring-2 focus:ring-lake-300 focus:border-lake-400 transition-all outline-none" onkeypress="if(event.key==='Enter') verifyPassword()" data-aime-line="1880" data-aime-column="17" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="input" data-aime-line="9136" data-aime-column="17" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="input">
-                <p id="passwordError" class="hidden text-red-500 text-xs mt-2 text-center" data-aime-line="1881" data-aime-column="17" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="p" data-aime-line="9137" data-aime-column="17" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="p">密码错误，请重新输入</p>
+                <p class="login-hint text-center">账号由服务商英文拼音组成，密码沿用原查询密码</p>
+                <p id="passwordError" class="hidden text-red-500 text-xs mt-2 text-center" data-aime-line="1881" data-aime-column="17" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="p" data-aime-line="9137" data-aime-column="17" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="p">账号或密码错误，请重新输入</p>
             </div>
             <div class="flex gap-3" data-aime-line="1883" data-aime-column="13" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9139" data-aime-column="13" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
                 <button onclick="closePasswordModal()" class="flex-1 px-4 py-2.5 rounded-xl border border-lake-200 text-lake-700 font-medium hover:bg-lake-50 transition-all text-sm" data-aime-line="1884" data-aime-column="17" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="button" data-aime-line="9140" data-aime-column="17" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="button">取消</button>
@@ -10970,10 +10987,13 @@ select {
             <div class="flex items-center justify-between" data-aime-line="1900" data-aime-column="13" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9156" data-aime-column="13" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
                 <div data-aime-line="1901" data-aime-column="17" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9157" data-aime-column="17" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
                     <div class="flex items-center gap-3 mb-2" data-aime-line="1902" data-aime-column="21" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9158" data-aime-column="21" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
-                        <span class="material-symbols-outlined text-3xl opacity-90" data-aime-line="1903" data-aime-column="25" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="span" data-aime-line="9159" data-aime-column="25" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="span">analytics</span>
-                        <h1 class="text-2xl md:text-3xl font-bold tracking-tight" data-aime-line="1904" data-aime-column="25" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="h1" data-aime-line="9160" data-aime-column="25" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="h1">TTS A段服务商绩效查询</h1>
+                        <img src="./tiktok-shop-logo.png" alt="TikTok Shop" class="tts-logo">
+                        <div>
+                            <div class="text-xs uppercase tracking-[0.3em] text-white/65 mb-1">TikTok Shop</div>
+                            <h1 class="text-2xl md:text-3xl font-bold tracking-tight tts-accent-text" data-aime-line="1904" data-aime-column="25" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="h1" data-aime-line="9160" data-aime-column="25" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="h1">服务商绩效驾驶舱</h1>
+                        </div>
                     </div>
-                    <p class="text-lake-100 text-sm md:text-base mt-1 ml-11" data-aime-line="1906" data-aime-column="21" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="p" data-aime-line="9162" data-aime-column="21" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="p">选择服务商、月份和环节，查看绩效评分详情</p>
+                    <p class="text-lake-100 text-sm md:text-base mt-1 ml-11" data-aime-line="1906" data-aime-column="21" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="p" data-aime-line="9162" data-aime-column="21" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="p">服务商使用账号+密码登录后，可查看本供应商所有环节、所有月份的绩效，并按条件自由筛选。</p>
                 </div>
                 <!-- Sync Info -->
                 <div class="flex flex-col items-end gap-1" data-aime-line="1909" data-aime-column="17" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9165" data-aime-column="17" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
@@ -10996,11 +11016,15 @@ select {
                 <!-- Vendor -->
                 <div data-aime-line="1927" data-aime-column="17" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9183" data-aime-column="17" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
                     <label class="block text-sm font-medium text-lake-700 mb-1.5" data-aime-line="1928" data-aime-column="21" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="label" data-aime-line="9184" data-aime-column="21" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="label">
-                        <span class="material-symbols-outlined text-sm align-middle mr-1" data-aime-line="1929" data-aime-column="25" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="span" data-aime-line="9185" data-aime-column="25" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="span">local_shipping</span>服务商
+                        <span class="material-symbols-outlined text-sm align-middle mr-1" data-aime-line="1929" data-aime-column="25" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="span" data-aime-line="9185" data-aime-column="25" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="span">badge</span>账号状态
                     </label>
-                    <select id="vendorSelect" class="select-custom w-full px-4 py-2.5 rounded-xl border border-lake-200 bg-white text-lake-900 focus:ring-2 focus:ring-lake-300 focus:border-lake-400 transition-all text-sm" data-aime-line="1931" data-aime-column="21" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="select" data-aime-line="9187" data-aime-column="21" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="select">
-                        <option value="" data-aime-line="1932" data-aime-column="25" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="option" data-aime-line="9188" data-aime-column="25" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="option">请选择服务商</option>
-                    </select>
+                    <div class="rounded-xl border border-white/10 px-4 py-3 bg-white/5 min-h-[44px] flex items-center justify-between gap-3">
+                        <div>
+                            <div id="currentVendorText" class="text-sm font-semibold text-lake-900">未登录</div>
+                            <div id="currentAccountText" class="login-hint">请先登录后查询</div>
+                        </div>
+                        <button id="logoutBtn" class="hidden px-3 py-2 rounded-lg text-sm">退出</button>
+                    </div>
                 </div>
                 <!-- Month -->
                 <div data-aime-line="1936" data-aime-column="17" data-aime-path-name="a_segment_score_webpage/output/index.html" data-aime-component-name="div" data-aime-line="9192" data-aime-column="17" data-aime-path-name="../ws_NebeOlbq/user_skills/a-segment-score-webpage/a_segment_score_webpage/output/index.html" data-aime-component-name="div">
@@ -11185,6 +11209,9 @@ select {
     let allData = [];
     let filters = {};
     let passwords = {};
+    let accounts = { vendor_to_account: {}, account_to_vendor: {} };
+    let stageRatings = [];
+    let currentUser = null;
     let pendingSearch = null;
 
     // Load data and passwords
@@ -11198,8 +11225,11 @@ select {
             const json = await dataResp.json();
             allData = json.records;
             filters = json.filters;
+            stageRatings = Array.isArray(json.stageRatings) ? json.stageRatings : [];
+            accounts = json.accounts || { vendor_to_account: {}, account_to_vendor: {} };
             passwords = await pwResp.json();
             initFilters();
+            updateCurrentUserUI();
             // Show sync timestamp
             if (json.lastSynced) {
                 document.getElementById('syncTime').textContent = '数据同步于 ' + json.lastSynced;
@@ -11211,31 +11241,55 @@ select {
         }
     }
 
+    function normalizeMonthValue(value) {
+        if (!value) return '';
+        const text = String(value).trim();
+        const match = text.match(/(\d{4})\D*(\d{1,2})/);
+        if (!match) return text;
+        return `${match[1]}-${String(match[2]).padStart(2, '0')}`;
+    }
+
+    function getCurrentVendorRecords() {
+        if (!currentUser?.vendor) return [];
+        return allData.filter(r => r.vendor === currentUser.vendor);
+    }
+
+    function updateCurrentUserUI() {
+        const vendorEl = document.getElementById('currentVendorText');
+        const accountEl = document.getElementById('currentAccountText');
+        const logoutBtn = document.getElementById('logoutBtn');
+        if (!vendorEl || !accountEl || !logoutBtn) return;
+
+        if (currentUser?.vendor) {
+            vendorEl.textContent = currentUser.vendor;
+            accountEl.textContent = `账号：${currentUser.account}`;
+            logoutBtn.classList.remove('hidden');
+        } else {
+            vendorEl.textContent = '未登录';
+            accountEl.textContent = '请先使用账号密码登录';
+            logoutBtn.classList.add('hidden');
+        }
+    }
+
     function initFilters() {
-        const vendorSelect = document.getElementById('vendorSelect');
         const monthSelect = document.getElementById('monthSelect');
         const stageSelect = document.getElementById('stageSelect');
+        const records = getCurrentVendorRecords();
 
-        // Clear existing options (keep placeholder)
-        vendorSelect.innerHTML = '<option value="">请选择服务商</option>';
-        monthSelect.innerHTML = '<option value="">请选择月份</option>';
+        monthSelect.innerHTML = '<option value="">全部月份</option>';
         stageSelect.innerHTML = '<option value="">全部环节</option>';
 
-        filters.vendors.forEach(v => {
-            const opt = document.createElement('option');
-            opt.value = v;
-            opt.textContent = v;
-            vendorSelect.appendChild(opt);
-        });
+        const months = [...new Set(records.map(r => normalizeMonthValue(r.month)).filter(Boolean))].sort().reverse();
+        const stages = [...new Set(records.map(r => r.stage).filter(Boolean))].sort((a, b) => a.localeCompare(b, 'zh-CN'));
 
-        filters.months.forEach(m => {
+        months.forEach(m => {
             const opt = document.createElement('option');
             opt.value = m;
             opt.textContent = m;
             monthSelect.appendChild(opt);
         });
 
-        filters.stages.forEach(s => {
+        stages.forEach(s => {
             const opt = document.createElement('option');
             opt.value = s;
             opt.textContent = s;
@@ -11273,44 +11327,41 @@ select {
 
     // Password system
     function search() {
-        const vendor = document.getElementById('vendorSelect').value;
-        const month = document.getElementById('monthSelect').value;
-
-        if (!vendor || !month) {
-            showToast('请至少选择服务商和考核月份');
+        if (!currentUser?.vendor) {
+            pendingSearch = {
+                month: document.getElementById('monthSelect').value,
+                stage: document.getElementById('stageSelect').value,
+            };
+            showPasswordModal();
             return;
         }
-
-        // Check if vendor has a password
-        if (passwords[vendor]) {
-            pendingSearch = { vendor, month };
-            showPasswordModal(vendor);
-        } else {
-            executeSearch();
-        }
+        executeSearch();
     }
 
-    function showPasswordModal(vendor) {
-        document.getElementById('modalVendorName').textContent = vendor;
+    function showPasswordModal() {
+        document.getElementById('accountInput').value = currentUser?.account || '';
         document.getElementById('passwordInput').value = '';
         document.getElementById('passwordError').classList.add('hidden');
         document.getElementById('passwordModal').classList.remove('hidden');
-        setTimeout(() => document.getElementById('passwordInput').focus(), 100);
+        setTimeout(() => document.getElementById('accountInput').focus(), 100);
     }
 
     function closePasswordModal() {
         document.getElementById('passwordModal').classList.add('hidden');
-        pendingSearch = null;
     }
 
     function verifyPassword() {
+        const account = document.getElementById('accountInput').value.trim().toLowerCase();
         const input = document.getElementById('passwordInput').value.trim();
-        const vendor = pendingSearch?.vendor;
+        const vendor = accounts?.account_to_vendor?.[account];
 
-        if (!vendor) return;
-
-        if (input === passwords[vendor]) {
+        if (vendor && input === passwords[vendor]) {
+            currentUser = { account, vendor };
             closePasswordModal();
+            updateCurrentUserUI();
+            initFilters();
+            if (pendingSearch?.month) document.getElementById('monthSelect').value = pendingSearch.month;
+            if (pendingSearch?.stage) document.getElementById('stageSelect').value = pendingSearch.stage;
             executeSearch();
         } else {
             document.getElementById('passwordError').classList.remove('hidden');
@@ -11319,17 +11370,46 @@ select {
         }
     }
 
+    function logout() {
+        currentUser = null;
+        pendingSearch = null;
+        updateCurrentUserUI();
+        initFilters();
+        document.getElementById('resultsSection').classList.add('hidden');
+        document.getElementById('noResultState').classList.add('hidden');
+        document.getElementById('emptyState').classList.remove('hidden');
+    }
+
+    function findStageRating(records) {
+        if (!records.length) return null;
+        const month = normalizeMonthValue(records[0].month);
+        const vendor = records[0].vendor;
+        const stage = records[0].stage;
+        const warehouseSet = [...new Set(records.map(r => (r.warehouse || '').trim()).filter(Boolean))];
+        return stageRatings.find(item => {
+            if (normalizeMonthValue(item.month) !== month) return false;
+            if (item.vendor !== vendor) return false;
+            if (item.stage !== stage) return false;
+            const wh = (item.warehouse || '').trim();
+            return warehouseSet.length ? warehouseSet.includes(wh) : !wh;
+        }) || null;
+    }
+
     function executeSearch() {
-        const vendor = pendingSearch?.vendor || document.getElementById('vendorSelect').value;
-        const month = pendingSearch?.month || document.getElementById('monthSelect').value;
-        const stage = document.getElementById('stageSelect').value;
+        if (!currentUser?.vendor) {
+            showPasswordModal();
+            return;
+        }
+
+        const vendor = currentUser.vendor;
+        const month = pendingSearch?.month ?? document.getElementById('monthSelect').value;
+        const stage = pendingSearch?.stage ?? document.getElementById('stageSelect').value;
 
         pendingSearch = null;
 
-        let results = allData.filter(r => r.vendor === vendor && r.month === month);
-        if (stage) {
-            results = results.filter(r => r.stage === stage);
-        }
+        let results = allData.filter(r => r.vendor === vendor);
+        if (month) results = results.filter(r => normalizeMonthValue(r.month) === normalizeMonthValue(month));
+        if (stage) results = results.filter(r => r.stage === stage);
 
         if (results.length === 0) {
             document.getElementById('resultsSection').classList.add('hidden');
@@ -11364,86 +11444,59 @@ select {
         const recordsWithWarehouse = results.filter(r => r.warehouse && r.warehouse.trim());
         const warehouseRatingSection = document.getElementById('warehouseRatingSection');
         const ratingSection = document.getElementById('ratingSection');
-        
+
         if (recordsWithWarehouse.length > 0) {
-            // Has warehouse data: show per-warehouse independent ratings
             warehouseRatingSection.classList.remove('hidden');
             ratingSection.classList.add('hidden');
-            
-            // Group by warehouse
+
             const whGroups = {};
             recordsWithWarehouse.forEach(r => {
                 const wh = r.warehouse;
-                if (!whGroups[wh]) whGroups[wh] = { fullScore: 0, score: 0, deduction: 0 };
-                whGroups[wh].fullScore += r.full_score;
-                whGroups[wh].score += r.score;
-                whGroups[wh].deduction += r.deduction;
+                if (!whGroups[wh]) whGroups[wh] = [];
+                whGroups[wh].push(r);
             });
-            
+
             const container = document.getElementById('warehouseRatingContainer');
             container.innerHTML = '';
-            
+
             Object.keys(whGroups).sort().forEach(wh => {
-                const g = whGroups[wh];
-                const rate = g.fullScore > 0 ? (g.score / g.fullScore) * 100 : 0;
-                const ratingInfo = getRatingInfo(rate);
-                
+                const groupRecords = whGroups[wh];
+                const fullScore = groupRecords.reduce((sum, r) => sum + r.full_score, 0);
+                const score = groupRecords.reduce((sum, r) => sum + r.score, 0);
+                const deduction = groupRecords.reduce((sum, r) => sum + r.deduction, 0);
+                const rate = fullScore > 0 ? (score / fullScore) * 100 : 0;
+                const ratingInfo = getRatingInfo(rate, findStageRating(groupRecords));
+
                 const block = document.createElement('div');
                 block.className = 'glass-card rounded-2xl p-6 mb-4 relative overflow-hidden';
-                
-                // Build alert HTML
+
                 let alertHtml = '';
                 if (ratingInfo.alertType === 'praise') {
-                    alertHtml = `<div class="rounded-xl px-4 py-3 text-sm flex items-start gap-2 bg-emerald-50 border border-emerald-200 text-emerald-800">
-                        <span class="material-symbols-outlined text-base mt-0.5">${ratingInfo.alertIcon}</span>
-                        <span>${ratingInfo.alertText}</span>
-                    </div>`;
+                    alertHtml = `<div class="rounded-xl px-4 py-3 text-sm flex items-start gap-2 bg-emerald-50 border border-emerald-200 text-emerald-800"><span class="material-symbols-outlined text-base mt-0.5">${ratingInfo.alertIcon}</span><span>${ratingInfo.alertText}</span></div>`;
                 } else if (ratingInfo.alertType === 'penalty') {
-                    alertHtml = `<div class="rounded-xl px-4 py-3 text-sm flex items-start gap-2 bg-red-50 border border-red-200 text-red-800">
-                        <span class="material-symbols-outlined text-base mt-0.5">${ratingInfo.alertIcon}</span>
-                        <span>${ratingInfo.alertText}</span>
-                    </div>`;
+                    alertHtml = `<div class="rounded-xl px-4 py-3 text-sm flex items-start gap-2 bg-red-50 border border-red-200 text-red-800"><span class="material-symbols-outlined text-base mt-0.5">${ratingInfo.alertIcon}</span><span>${ratingInfo.alertText}</span></div>`;
                 }
-                
+
                 block.innerHTML = `
                     <div class="flex items-center gap-2 mb-4">
                         <span class="material-symbols-outlined text-lake-500 text-lg">location_city</span>
                         <h3 class="text-base font-semibold text-lake-900">${wh}</h3>
                     </div>
                     <div class="flex flex-col md:flex-row items-start md:items-center gap-5">
-                        <!-- Rating Badge -->
                         <div class="flex-shrink-0 w-22 h-22 rounded-full flex items-center justify-center shadow-lg" style="${ratingInfo.badgeGradient}; width: 5.5rem; height: 5.5rem;">
                             <div class="text-center">
                                 <div class="text-3xl font-bold text-white leading-none">${ratingInfo.grade}</div>
                                 <div class="text-xs text-white/80 mt-0.5">${ratingInfo.gradeLabel}</div>
                             </div>
                         </div>
-                        <!-- Stats + Details -->
                         <div class="flex-1 w-full">
-                            <!-- Stats Row -->
                             <div class="grid grid-cols-4 gap-3 mb-3">
-                                <div class="text-center p-2 rounded-lg bg-lake-50/60">
-                                    <div class="text-xs text-lake-500 mb-0.5">满分合计</div>
-                                    <div class="text-lg font-bold text-lake-900">${g.fullScore.toFixed(1)}</div>
-                                </div>
-                                <div class="text-center p-2 rounded-lg bg-lake-50/60">
-                                    <div class="text-xs text-lake-500 mb-0.5">得分合计</div>
-                                    <div class="text-lg font-bold text-lake-500">${g.score.toFixed(1)}</div>
-                                </div>
-                                <div class="text-center p-2 rounded-lg bg-lake-50/60">
-                                    <div class="text-xs text-lake-500 mb-0.5">扣分合计</div>
-                                    <div class="text-lg font-bold text-red-500">${g.deduction.toFixed(1)}</div>
-                                </div>
-                                <div class="text-center p-2 rounded-lg bg-lake-50/60">
-                                    <div class="text-xs text-lake-500 mb-0.5">得分率</div>
-                                    <div class="text-lg font-bold ${rate >= 80 ? 'text-lake-600' : rate >= 60 ? 'text-amber-500' : 'text-red-500'}">${rate.toFixed(1)}%</div>
-                                </div>
+                                <div class="text-center p-2 rounded-lg bg-lake-50/60"><div class="text-xs text-lake-500 mb-0.5">满分合计</div><div class="text-lg font-bold text-lake-900">${fullScore.toFixed(1)}</div></div>
+                                <div class="text-center p-2 rounded-lg bg-lake-50/60"><div class="text-xs text-lake-500 mb-0.5">得分合计</div><div class="text-lg font-bold text-lake-500">${score.toFixed(1)}</div></div>
+                                <div class="text-center p-2 rounded-lg bg-lake-50/60"><div class="text-xs text-lake-500 mb-0.5">扣分合计</div><div class="text-lg font-bold text-red-500">${deduction.toFixed(1)}</div></div>
+                                <div class="text-center p-2 rounded-lg bg-lake-50/60"><div class="text-xs text-lake-500 mb-0.5">得分率</div><div class="text-lg font-bold ${rate >= 80 ? 'text-lake-600' : rate >= 60 ? 'text-amber-500' : 'text-red-500'}">${rate.toFixed(1)}%</div></div>
                             </div>
-                            <!-- Rating description -->
-                            <div class="flex items-baseline gap-3 mb-2">
-                                <span class="text-base font-bold text-lake-900">${ratingInfo.gradeName}</span>
-                                <span class="text-sm text-lake-500">综合得分率 ${rate.toFixed(1)}%</span>
-                            </div>
+                            <div class="flex items-baseline gap-3 mb-2"><span class="text-base font-bold text-lake-900">${ratingInfo.gradeName}</span><span class="text-sm text-lake-500">综合得分率 ${rate.toFixed(1)}%</span></div>
                             <p class="text-sm text-lake-700 mb-3 leading-relaxed">${ratingInfo.desc}</p>
                             ${alertHtml}
                         </div>
@@ -11451,44 +11504,52 @@ select {
                 `;
                 container.appendChild(block);
             });
+            return;
+        }
+
+        warehouseRatingSection.classList.add('hidden');
+        ratingSection.classList.remove('hidden');
+        const fullScore = results.reduce((sum, r) => sum + r.full_score, 0);
+        const score = results.reduce((sum, r) => sum + r.score, 0);
+        const rate = fullScore > 0 ? (score / fullScore) * 100 : 0;
+        const ratingInfo = getRatingInfo(rate, findStageRating(results));
+
+        document.getElementById('ratingBadge').style = ratingInfo.badgeGradient;
+        document.getElementById('ratingLetter').textContent = ratingInfo.grade;
+        document.getElementById('ratingLabel').textContent = ratingInfo.gradeLabel;
+        document.getElementById('ratingTitle').textContent = ratingInfo.gradeName;
+        document.getElementById('ratingScoreText').textContent = `综合得分率 ${rate.toFixed(1)}%`;
+        document.getElementById('ratingDesc').textContent = ratingInfo.desc;
+
+        const alertEl = document.getElementById('ratingAlert');
+        if (ratingInfo.alertType === 'none') {
+            alertEl.classList.add('hidden');
         } else {
-            // No warehouse data: show single combined rating
-            warehouseRatingSection.classList.add('hidden');
-            ratingSection.classList.remove('hidden');
-            
-            const fullScore = results.reduce((sum, r) => sum + r.full_score, 0);
-            const score = results.reduce((sum, r) => sum + r.score, 0);
-            const rate = fullScore > 0 ? (score / fullScore) * 100 : 0;
-            const ratingInfo = getRatingInfo(rate);
-
-            // Update badge
-            document.getElementById('ratingBadge').style = ratingInfo.badgeGradient;
-            document.getElementById('ratingLetter').textContent = ratingInfo.grade;
-            document.getElementById('ratingLabel').textContent = ratingInfo.gradeLabel;
-
-            // Update details
-            document.getElementById('ratingTitle').textContent = ratingInfo.gradeName;
-            document.getElementById('ratingScoreText').textContent = `综合得分率 ${rate.toFixed(1)}%`;
-            document.getElementById('ratingDesc').textContent = ratingInfo.desc;
-
-            // Update alert
-            const alertEl = document.getElementById('ratingAlert');
-            if (ratingInfo.alertType === 'none') {
-                alertEl.classList.add('hidden');
-            } else {
-                alertEl.classList.remove('hidden');
-                document.getElementById('ratingAlertIcon').textContent = ratingInfo.alertIcon;
-                document.getElementById('ratingAlertText').textContent = ratingInfo.alertText;
-                if (ratingInfo.alertType === 'praise') {
-                    alertEl.className = 'rounded-xl px-4 py-3 text-sm flex items-start gap-2 bg-emerald-50 border border-emerald-200 text-emerald-800';
-                } else {
-                    alertEl.className = 'rounded-xl px-4 py-3 text-sm flex items-start gap-2 bg-red-50 border border-red-200 text-red-800';
-                }
-            }
+            alertEl.classList.remove('hidden');
+            document.getElementById('ratingAlertIcon').textContent = ratingInfo.alertIcon;
+            document.getElementById('ratingAlertText').textContent = ratingInfo.alertText;
+            alertEl.className = ratingInfo.alertType === 'praise'
+                ? 'rounded-xl px-4 py-3 text-sm flex items-start gap-2 bg-emerald-50 border border-emerald-200 text-emerald-800'
+                : 'rounded-xl px-4 py-3 text-sm flex items-start gap-2 bg-red-50 border border-red-200 text-red-800';
         }
     }
     
-    function getRatingInfo(rate) {
+    function getRatingInfo(rate, stageRating) {
+        if (stageRating?.rating) {
+            const map = {
+                '高于预期': { grade: 'E', gradeLabel: 'Exceed', badgeGradient: 'background: linear-gradient(135deg, #059669, #10b981)', alertType: 'praise', alertIcon: 'celebration' },
+                '符合预期': { grade: 'M', gradeLabel: 'Meet', badgeGradient: 'background: linear-gradient(135deg, #257f94, #2a9db0)', alertType: 'none', alertIcon: 'info' },
+                '待改进': { grade: 'I', gradeLabel: 'Improve', badgeGradient: 'background: linear-gradient(135deg, #d97706, #f59e0b)', alertType: 'penalty', alertIcon: 'warning' },
+                '不合格': { grade: 'F', gradeLabel: 'Failed', badgeGradient: 'background: linear-gradient(135deg, #dc2626, #ef4444)', alertType: 'penalty', alertIcon: 'error' },
+            };
+            const matched = map[stageRating.rating] || map['符合预期'];
+            return {
+                ...matched,
+                gradeName: stageRating.rating,
+                desc: stageRating.conclusion || '评级结果已按当前环节配置展示。',
+                alertText: stageRating.conclusion || '评级结果已按当前环节配置展示。'
+            };
+        }
         if (rate >= 90) {
             return {
                 grade: 'E', gradeName: '高于预期', gradeLabel: 'Exceed',
@@ -11512,15 +11573,14 @@ select {
                 alertType: 'penalty', alertIcon: 'warning',
                 alertText: '⚠️ 注意：当前得分率低于80%，根据考核规则，可能触发扣罚考核月度服务费总额的 2%。请及时关注并改善相关指标。'
             };
-        } else {
-            return {
-                grade: 'F', gradeName: '不合格', gradeLabel: 'Failed',
-                badgeGradient: 'background: linear-gradient(135deg, #dc2626, #ef4444)',
-                desc: '多项核心指标严重不达标，需立即整改。',
-                alertType: 'penalty', alertIcon: 'error',
-                alertText: '🚨 警告：当前得分率低于60%，根据考核规则，可能触发扣罚考核月度服务费总额的 5%。请立即排查问题并采取纠正措施。'
-            };
         }
+        return {
+            grade: 'F', gradeName: '不合格', gradeLabel: 'Failed',
+            badgeGradient: 'background: linear-gradient(135deg, #dc2626, #ef4444)',
+            desc: '多项核心指标严重不达标，需立即整改。',
+            alertType: 'penalty', alertIcon: 'error',
+            alertText: '🚨 警告：当前得分率低于60%，根据考核规则，可能触发扣罚考核月度服务费总额的 5%。请立即排查问题并采取纠正措施。'
+        };
     }
 
     function renderChart(results) {
@@ -11690,6 +11750,9 @@ select {
 
     // Event listeners
     document.getElementById('searchBtn').addEventListener('click', search);
+    document.getElementById('loginBtn')?.addEventListener('click', showPasswordModal);
+    document.getElementById('confirmLoginBtn')?.addEventListener('click', verifyPassword);
+    document.getElementById('logoutBtn')?.addEventListener('click', logout);
     document.querySelectorAll('select').forEach(sel => {
         sel.addEventListener('keydown', (e) => { if (e.key === 'Enter') search(); });
     });
