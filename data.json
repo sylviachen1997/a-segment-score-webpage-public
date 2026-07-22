@@ -1,5 +1,5 @@
 {
-  "lastSynced": "2026-07-21 22:13:41",
+  "lastSynced": "2026-07-22 14:53:04",
   "records": [
     {
       "month": "2025-01",
@@ -110712,16 +110712,6 @@
     },
     {
       "month": "2026-05",
-      "stage": "FS卫星仓",
-      "vendor": "宝通",
-      "warehouse": "维龙菜鸟",
-      "score_total": 80.05,
-      "rating": "M（Meet Expectations）符合预期",
-      "penalty_text": "",
-      "remark": ""
-    },
-    {
-      "month": "2026-05",
       "stage": "POP外包仓",
       "vendor": "顺丰",
       "warehouse": "POP顺丰",
@@ -111011,14 +111001,24 @@
       "remark": ""
     },
     {
+      "month": "2026-05",
+      "stage": "FS卫星仓",
+      "vendor": "宝通",
+      "warehouse": "花都宝通",
+      "score_total": 80.05,
+      "rating": "M（Meet Expectations）符合预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
       "month": "2026-06",
       "stage": "FS揽收",
       "vendor": "顺丰",
       "warehouse": "",
       "score_total": 100,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "",
-      "remark": ""
+      "penalty_text": "质量事故，107单批量虚揽，按事故等级，2000元处罚；\n12单虚揽工单，处罚600元",
+      "remark": "[头程揽收服务商KPI考核数据-2026年6月](https://bytedance.sg.larkoffice.com/sheets/RDT4slkbBhZVmrtLfuxlawKVgDe?from=from_copylink&sheet=oNMxJY)"
     },
     {
       "month": "2026-06",
@@ -111307,16 +111307,6 @@
       "warehouse": "维龙菜鸟",
       "score_total": 98.5,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "",
-      "remark": ""
-    },
-    {
-      "month": "2026-06",
-      "stage": "FS卫星仓",
-      "vendor": "宝通",
-      "warehouse": "维龙菜鸟",
-      "score_total": 77.6928571428575,
-      "rating": "I（Improvement Needed）待改进",
       "penalty_text": "",
       "remark": ""
     },
@@ -111699,9 +111689,28 @@
       "rating": "E（Exceed Expectations）高于预期",
       "penalty_text": "",
       "remark": ""
+    },
+    {
+      "month": "2026-06",
+      "stage": "FS卫星仓",
+      "vendor": "宝通",
+      "warehouse": "花都宝通",
+      "score_total": 77.6928571428575,
+      "rating": "I（Improvement Needed）待改进",
+      "penalty_text": "",
+      "remark": ""
     }
   ],
   "manualPenalties": [
+    {
+      "month": "2026-06",
+      "stage": "FS揽收",
+      "vendor": "顺丰",
+      "warehouse": "",
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "质量事故，107单批量虚揽，按事故等级，2000元处罚；\n12单虚揽工单，处罚600元",
+      "remark": "[头程揽收服务商KPI考核数据-2026年6月](https://bytedance.sg.larkoffice.com/sheets/RDT4slkbBhZVmrtLfuxlawKVgDe?from=from_copylink&sheet=oNMxJY)"
+    },
     {
       "month": "2026-06",
       "stage": "POP揽收",
