@@ -1,5 +1,5 @@
 {
-  "lastSynced": "2026-07-22 14:53:04",
+  "lastSynced": "2026-07-22 15:16:47",
   "records": [
     {
       "month": "2025-01",
@@ -111067,8 +111067,8 @@
       "warehouse": "",
       "score_total": 93.3723076923077,
       "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "",
-      "remark": ""
+      "penalty_text": "14单虚揽工单，处罚700元",
+      "remark": "[头程揽收服务商KPI考核数据-2026年6月](https://bytedance.sg.larkoffice.com/sheets/RDT4slkbBhZVmrtLfuxlawKVgDe?from=from_copylink&sheet=TIEjA6)"
     },
     {
       "month": "2026-06",
@@ -111710,6 +111710,15 @@
       "rating": "E（Exceed Expectations）高于预期",
       "penalty_text": "质量事故，107单批量虚揽，按事故等级，2000元处罚；\n12单虚揽工单，处罚600元",
       "remark": "[头程揽收服务商KPI考核数据-2026年6月](https://bytedance.sg.larkoffice.com/sheets/RDT4slkbBhZVmrtLfuxlawKVgDe?from=from_copylink&sheet=oNMxJY)"
+    },
+    {
+      "month": "2026-06",
+      "stage": "FS揽收",
+      "vendor": "圆通",
+      "warehouse": "",
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "14单虚揽工单，处罚700元",
+      "remark": "[头程揽收服务商KPI考核数据-2026年6月](https://bytedance.sg.larkoffice.com/sheets/RDT4slkbBhZVmrtLfuxlawKVgDe?from=from_copylink&sheet=TIEjA6)"
     },
     {
       "month": "2026-06",
