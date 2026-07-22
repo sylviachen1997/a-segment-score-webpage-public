@@ -1,5 +1,5 @@
 {
-  "lastSynced": "2026-07-22 15:16:47",
+  "lastSynced": "2026-07-22 17:35:43",
   "records": [
     {
       "month": "2025-01",
@@ -99067,7 +99067,7 @@
       "module": "BPO",
       "stage": "安防",
       "warehouse": "嘉兴",
-      "vendor": "天盾",
+      "vendor": "圣泰",
       "kpi_category": "运营",
       "kpi_subcategory": "其他",
       "kpi": "基础分",
@@ -99082,7 +99082,7 @@
       "module": "BPO",
       "stage": "安防",
       "warehouse": "嘉兴",
-      "vendor": "天盾",
+      "vendor": "圣泰",
       "kpi_category": "运营",
       "kpi_subcategory": "其他",
       "kpi": "减分项",
@@ -99097,7 +99097,7 @@
       "module": "BPO",
       "stage": "安防",
       "warehouse": "嘉兴",
-      "vendor": "天盾",
+      "vendor": "圣泰",
       "kpi_category": "运营",
       "kpi_subcategory": "其他",
       "kpi": "加分项",
@@ -99112,7 +99112,7 @@
       "module": "BPO",
       "stage": "保洁",
       "warehouse": "华东",
-      "vendor": "德润",
+      "vendor": "亚太",
       "kpi_category": "运营",
       "kpi_subcategory": "其他",
       "kpi": "减分项",
@@ -99127,7 +99127,7 @@
       "module": "BPO",
       "stage": "保洁",
       "warehouse": "华东",
-      "vendor": "德润",
+      "vendor": "亚太",
       "kpi_category": "运营",
       "kpi_subcategory": "其他",
       "kpi": "基础分",
@@ -103687,7 +103687,9 @@
       "德科",
       "准时达",
       "高凡",
-      "正立"
+      "正立",
+      "圣泰",
+      "亚太"
     ],
     "stages": [
       "FS揽收",
@@ -111452,26 +111454,6 @@
     },
     {
       "month": "2026-06",
-      "stage": "安防",
-      "vendor": "天盾",
-      "warehouse": "嘉兴",
-      "score_total": 96,
-      "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "",
-      "remark": ""
-    },
-    {
-      "month": "2026-06",
-      "stage": "保洁",
-      "vendor": "德润",
-      "warehouse": "华东",
-      "score_total": 98,
-      "rating": "E（Exceed Expectations）高于预期",
-      "penalty_text": "",
-      "remark": ""
-    },
-    {
-      "month": "2026-06",
       "stage": "保洁",
       "vendor": "德润",
       "warehouse": "华南",
@@ -111699,6 +111681,26 @@
       "rating": "I（Improvement Needed）待改进",
       "penalty_text": "",
       "remark": ""
+    },
+    {
+      "month": "2026-06",
+      "stage": "安防",
+      "vendor": "圣泰",
+      "warehouse": "嘉兴",
+      "score_total": 96,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
+    },
+    {
+      "month": "2026-06",
+      "stage": "保洁",
+      "vendor": "亚太",
+      "warehouse": "华东",
+      "score_total": 98,
+      "rating": "E（Exceed Expectations）高于预期",
+      "penalty_text": "",
+      "remark": ""
     }
   ],
   "manualPenalties": [
@@ -111737,6 +111739,7 @@
       "上海长途": "shanghaichangtu",
       "中航": "zhonghang",
       "中通": "zhongtong",
+      "亚太": "yatai",
       "亚晶": "yajing",
       "京东": "jingdong",
       "任易调": "renyidiao",
@@ -111747,6 +111750,7 @@
       "君润": "junrun",
       "嘉诚": "jiacheng",
       "圆通": "yuantong",
+      "圣泰": "shengtai",
       "天元": "tianyuan",
       "天盾": "tiandun",
       "安乐": "anle",
@@ -111754,6 +111758,7 @@
       "宝通": "baotong",
       "德悦": "deyue",
       "德润": "derun",
+      "德科": "deke",
       "德邦": "debang",
       "成之恒": "chengzhiheng",
       "日日顺": "ririshun",
@@ -111783,6 +111788,7 @@
       "shanghaichangtu": "上海长途",
       "zhonghang": "中航",
       "zhongtong": "中通",
+      "yatai": "亚太",
       "yajing": "亚晶",
       "jingdong": "京东",
       "renyidiao": "任易调",
@@ -111793,6 +111799,7 @@
       "junrun": "君润",
       "jiacheng": "嘉诚",
       "yuantong": "圆通",
+      "shengtai": "圣泰",
       "tianyuan": "天元",
       "tiandun": "天盾",
       "anle": "安乐",
@@ -111800,6 +111807,7 @@
       "baotong": "宝通",
       "deyue": "德悦",
       "derun": "德润",
+      "deke": "德科",
       "debang": "德邦",
       "chengzhiheng": "成之恒",
       "ririshun": "日日顺",
